@@ -40,7 +40,7 @@ jobs:
       - name: Build (GitHub Pages base path)
         run: npm run build
         env:
-          DEPLOY_BASE: /tohoku-michinoeki-map/
+          DEPLOY_BASE: /tohoku-michinoeki-nami/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
