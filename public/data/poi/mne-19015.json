@@ -3,7 +3,7 @@
   "lat": 38.2181108,
   "lng": 140.0973224,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T12:54:57Z",
+  "generatedAt": "2026-09-13T21:46:19Z",
   "pois": [
     {
       "id": "osm:node/5963451065",
@@ -58,24 +58,6 @@
       "distanceM": 67,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5963451064"
-    },
-    {
-      "id": "osm:node/14092729586",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "大森山",
-      "lat": 38.2303597,
-      "lng": 140.1079173,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 1647,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14092729586"
     },
     {
       "id": "osm:node/5108991626",
@@ -544,6 +526,24 @@
       "distanceM": 4501,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/6040606368"
+    },
+    {
+      "id": "osm:node/5108983237",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "喜多楼",
+      "lat": 38.1894798,
+      "lng": 140.0548018,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4893,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5108983237"
     }
   ]
 }

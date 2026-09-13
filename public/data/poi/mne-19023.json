@@ -3,7 +3,7 @@
   "lat": 37.7611089,
   "lng": 140.9479524,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T14:15:30Z",
+  "generatedAt": "2026-09-13T21:53:13Z",
   "pois": [
     {
       "id": "osm:node/576929318",
@@ -22,6 +22,42 @@
       "distanceM": 66,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/576929318"
+    },
+    {
+      "id": "osm:node/5050630463",
+      "category": "tourism",
+      "subcategory": "meisho",
+      "subcategories": [
+        "meisho"
+      ],
+      "name": "相馬市役所 道の駅そうま体験実習館",
+      "lat": 37.760371,
+      "lng": 140.9473029,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 100,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5050630463"
+    },
+    {
+      "id": "osm:node/5050653919",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "ビアン",
+      "lat": 37.7569382,
+      "lng": 140.9509125,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 532,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5050653919"
     },
     {
       "id": "osm:node/3699278062",
@@ -85,13 +121,13 @@
         "hotel"
       ],
       "name": "ビジネスホテル サンエイ 大町",
-      "lat": 37.797787,
-      "lng": 140.923314,
+      "lat": 37.7978583,
+      "lng": 140.9232857,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 4618,
+      "distanceM": 4626,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2834537301"
     },
@@ -132,24 +168,6 @@
       "sourceUrl": "https://www.openstreetmap.org/node/3698403767"
     },
     {
-      "id": "osm:node/2834554601",
-      "category": "food",
-      "subcategory": "shokudo",
-      "subcategories": [
-        "shokudo"
-      ],
-      "name": "和風レストラン まる久",
-      "lat": 37.796981,
-      "lng": 140.919885,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4690,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/2834554601"
-    },
-    {
       "id": "osm:node/2384047653",
       "category": "food",
       "subcategory": "fastfood",
@@ -175,13 +193,13 @@
         "food_other"
       ],
       "name": "英勲",
-      "lat": 37.8007134,
-      "lng": 140.9249988,
+      "lat": 37.8006941,
+      "lng": 140.9249923,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 4844,
+      "distanceM": 4842,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4547727600"
     },
@@ -193,13 +211,13 @@
         "sweets"
       ],
       "name": "お菓子の松川堂",
-      "lat": 37.800778,
-      "lng": 140.924627,
+      "lat": 37.8007433,
+      "lng": 140.9245961,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 4864,
+      "distanceM": 4862,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2833224201"
     },
@@ -265,13 +283,13 @@
         "hotel"
       ],
       "name": "相馬ステーションホテル",
-      "lat": 37.8013995,
-      "lng": 140.925308,
+      "lat": 37.8013401,
+      "lng": 140.9254504,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 4902,
+      "distanceM": 4891,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4547716581"
     },
@@ -283,13 +301,13 @@
         "sushi"
       ],
       "name": "寿司処 江戸一",
-      "lat": 37.8007048,
-      "lng": 140.9228915,
+      "lat": 37.8006894,
+      "lng": 140.9229469,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 4923,
+      "distanceM": 4919,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4335214367"
     },
@@ -312,58 +330,22 @@
       "sourceUrl": "https://www.openstreetmap.org/node/4547727607"
     },
     {
-      "id": "osm:node/4335214357",
+      "id": "osm:node/2384049281",
       "category": "food",
-      "subcategory": "food_other",
+      "subcategory": "yoshoku",
       "subcategories": [
-        "food_other"
+        "yoshoku"
       ],
-      "name": "旬肴酒菜 ささら",
-      "lat": 37.8006956,
-      "lng": 140.9224571,
+      "name": "ココス",
+      "lat": 37.8026908,
+      "lng": 140.928182,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
       "distanceM": 4939,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/4335214357"
-    },
-    {
-      "id": "osm:node/2384049281",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "ココス",
-      "lat": 37.802724,
-      "lng": 140.9282,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4942,
-      "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2384049281"
-    },
-    {
-      "id": "osm:node/2384049675",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "ステーキの店 坪相",
-      "lat": 37.802883,
-      "lng": 140.928581,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4947,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/2384049675"
     },
     {
       "id": "osm:node/2833214702",
@@ -454,6 +436,24 @@
       "distanceM": 4965,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4547716583"
+    },
+    {
+      "id": "osm:node/4557191530",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "珈琲＆ギャラリー　志緒里",
+      "lat": 37.8021361,
+      "lng": 140.9256203,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4966,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4557191530"
     },
     {
       "id": "osm:node/4547727602",

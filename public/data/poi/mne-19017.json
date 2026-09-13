@@ -3,80 +3,8 @@
   "lat": 37.6678183,
   "lng": 140.5766931,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T14:17:33Z",
+  "generatedAt": "2026-09-13T21:54:48Z",
   "pois": [
-    {
-      "id": "osm:node/14041201443",
-      "category": "food",
-      "subcategory": "ramen",
-      "subcategories": [
-        "ramen"
-      ],
-      "name": "幸楽苑",
-      "lat": 37.6671914,
-      "lng": 140.5757466,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 109,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14041201443"
-    },
-    {
-      "id": "osm:node/14041201451",
-      "category": "food",
-      "subcategory": "shokudo",
-      "subcategories": [
-        "shokudo"
-      ],
-      "name": "あじせん 楓亭",
-      "lat": 37.6657574,
-      "lng": 140.589435,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 1145,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14041201451"
-    },
-    {
-      "id": "osm:node/14041201452",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "だいまる",
-      "lat": 37.6658319,
-      "lng": 140.5925097,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 1410,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14041201452"
-    },
-    {
-      "id": "osm:node/14041201440",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "TomSlice",
-      "lat": 37.6674391,
-      "lng": 140.6065037,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 2624,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14041201440"
-    },
     {
       "id": "osm:way/734026595",
       "category": "tourism",
@@ -256,6 +184,24 @@
       "distanceM": 6470,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/13703106514"
+    },
+    {
+      "id": "osm:way/1241266360",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "鮎滝観音",
+      "lat": 37.6864591,
+      "lng": 140.4972298,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7294,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1241266360"
     },
     {
       "id": "osm:node/4308106342",
@@ -544,6 +490,60 @@
       "distanceM": 8376,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/11962371186"
+    },
+    {
+      "id": "osm:way/735415983",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": null,
+      "lat": 37.6558601,
+      "lng": 140.4823808,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8408,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/735415983"
+    },
+    {
+      "id": "osm:node/11940123443",
+      "category": "lodging",
+      "subcategory": "hotel",
+      "subcategories": [
+        "hotel"
+      ],
+      "name": "旅館井寿々",
+      "lat": 37.6548213,
+      "lng": 140.4825052,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8416,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/11940123443"
+    },
+    {
+      "id": "osm:way/723121099",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": null,
+      "lat": 37.6913692,
+      "lng": 140.4853209,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8457,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/723121099"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "lat": 38.619593,
   "lng": 141.325525,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T12:08:04Z",
+  "generatedAt": "2026-09-13T21:11:20Z",
   "pois": [
     {
       "id": "osm:node/4583733690",
@@ -391,13 +391,13 @@
         "jinja_tera"
       ],
       "name": "登米神社",
-      "lat": 38.6499145,
-      "lng": 141.2788571,
+      "lat": 38.6498967,
+      "lng": 141.2788181,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 5272,
+      "distanceM": 5274,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4566760396"
     },

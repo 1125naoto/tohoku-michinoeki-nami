@@ -3,7 +3,7 @@
   "lat": 40.7179284,
   "lng": 140.579519,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T11:24:11Z",
+  "generatedAt": "2026-09-13T20:33:57Z",
   "pois": [
     {
       "id": "osm:node/10555883417",
@@ -531,22 +531,22 @@
       "sourceUrl": "https://www.openstreetmap.org/node/2989474323"
     },
     {
-      "id": "osm:way/684104260",
-      "category": "onsen",
-      "subcategory": "higaeri_onsen",
+      "id": "osm:node/2987357237",
+      "category": "food",
+      "subcategory": "sushi",
       "subcategories": [
-        "higaeri_onsen"
+        "sushi"
       ],
-      "name": "田舎館村老人福祉センター",
-      "lat": 40.6492624,
-      "lng": 140.5527869,
+      "name": "かっぱ寿司",
+      "lat": 40.6469947,
+      "lng": 140.6019485,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 7961,
+      "distanceM": 8111,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/684104260"
+      "sourceUrl": "https://www.openstreetmap.org/node/2987357237"
     }
   ]
 }

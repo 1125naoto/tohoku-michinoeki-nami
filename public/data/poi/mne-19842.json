@@ -3,7 +3,7 @@
   "lat": 38.7079696,
   "lng": 141.327823,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T12:04:14Z",
+  "generatedAt": "2026-09-13T21:07:42Z",
   "pois": [
     {
       "id": "osm:node/5600357558",
@@ -22,24 +22,6 @@
       "distanceM": 27,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5600357558"
-    },
-    {
-      "id": "osm:node/5600357562",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": null,
-      "lat": 38.7080642,
-      "lng": 141.3281155,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 27,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5600357562"
     },
     {
       "id": "osm:node/4564983989",
@@ -544,6 +526,24 @@
       "distanceM": 7185,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5047451930"
+    },
+    {
+      "id": "osm:node/4566758494",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "みんなのカフェ tetote",
+      "lat": 38.6583752,
+      "lng": 141.2746111,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7193,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4566758494"
     }
   ]
 }

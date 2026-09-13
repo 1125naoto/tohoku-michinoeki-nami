@@ -3,7 +3,7 @@
   "lat": 40.42962337097706,
   "lng": 141.0691523355571,
   "radiusM": 10000,
-  "generatedAt": "2026-09-07T11:31:57Z",
+  "generatedAt": "2026-09-13T20:42:07Z",
   "pois": [
     {
       "id": "osm:way/558451653",
@@ -384,6 +384,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/770981386"
     },
     {
+      "id": "osm:node/9039691903",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 40.3615535,
+      "lng": 141.1096927,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8311,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9039691903"
+    },
+    {
       "id": "osm:node/9039691902",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -400,24 +418,6 @@
       "distanceM": 8314,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/9039691902"
-    },
-    {
-      "id": "osm:node/9039691903",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": null,
-      "lat": 40.3615148,
-      "lng": 141.1096779,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8315,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/9039691903"
     },
     {
       "id": "osm:node/9039691904",
