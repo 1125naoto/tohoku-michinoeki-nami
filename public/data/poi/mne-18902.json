@@ -3,7 +3,7 @@
   "lat": 40.58083318708148,
   "lng": 140.6874847216271,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:37:22Z",
+  "generatedAt": "2026-09-20T20:43:36Z",
   "pois": [
     {
       "id": "osm:way/1235557778",
@@ -384,6 +384,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/755442571"
     },
     {
+      "id": "osm:node/14066322446",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "ドライブイン西十和田",
+      "lat": 40.6090028,
+      "lng": 140.6675912,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3554,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14066322446"
+    },
+    {
       "id": "osm:way/736900231",
       "category": "lodging",
       "subcategory": "hotel",
@@ -526,24 +544,6 @@
       "distanceM": 6142,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7056585344"
-    },
-    {
-      "id": "osm:way/953799860",
-      "category": "tourism",
-      "subcategory": "hakubutsukan",
-      "subcategories": [
-        "hakubutsukan"
-      ],
-      "name": "お山のおもしえ学校",
-      "lat": 40.6335155,
-      "lng": 140.7136362,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": "http://matagi.omosie.com/",
-      "distanceM": 6260,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/953799860"
     }
   ]
 }

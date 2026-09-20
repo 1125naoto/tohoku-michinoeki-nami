@@ -3,7 +3,7 @@
   "lat": 40.586204,
   "lng": 141.117434,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:36:58Z",
+  "generatedAt": "2026-09-20T20:42:55Z",
   "pois": [
     {
       "id": "osm:node/5931374285",
@@ -220,24 +220,6 @@
       "distanceM": 8066,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/6905183215"
-    },
-    {
-      "id": "osm:node/7140685742",
-      "category": "food",
-      "subcategory": "cafe",
-      "subcategories": [
-        "cafe"
-      ],
-      "name": "カフェ ド アロマ",
-      "lat": 40.613021,
-      "lng": 141.2063197,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8075,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/7140685742"
     },
     {
       "id": "osm:node/7140685746",
@@ -544,6 +526,24 @@
       "distanceM": 8434,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7140685760"
+    },
+    {
+      "id": "osm:node/7142415306",
+      "category": "food",
+      "subcategory": "cafe",
+      "subcategories": [
+        "cafe"
+      ],
+      "name": "らぶレター",
+      "lat": 40.6127933,
+      "lng": 141.2112256,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8453,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7142415306"
     }
   ]
 }

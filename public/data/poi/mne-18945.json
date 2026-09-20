@@ -3,7 +3,7 @@
   "lat": 39.3007195,
   "lng": 140.875147,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:59:25Z",
+  "generatedAt": "2026-09-20T21:16:28Z",
   "pois": [
     {
       "id": "osm:node/12229843729",
@@ -306,7 +306,7 @@
       "lat": 39.2363834,
       "lng": 140.9059128,
       "address": null,
-      "openingHoursRaw": "Mo-Fr 11:00-14:30, Sa-Su 10:30-15:00",
+      "openingHoursRaw": "Mo-Fr 11:00–14:30, Sa-Su 10:30-15:00",
       "phone": "+81-19-765-9000",
       "website": null,
       "distanceM": 7628,

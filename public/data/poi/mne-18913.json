@@ -3,7 +3,7 @@
   "lat": 40.784406,
   "lng": 140.322251,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:32:10Z",
+  "generatedAt": "2026-09-20T20:35:50Z",
   "pois": [
     {
       "id": "osm:way/673746026",
@@ -387,6 +387,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/566851286"
     },
     {
+      "id": "osm:node/13923543773",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "七里長浜",
+      "lat": 40.8169112,
+      "lng": 140.2621525,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6217,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13923543773"
+    },
+    {
       "id": "osm:way/673733369",
       "category": "onsen",
       "subcategory": "higaeri_onsen",
@@ -531,24 +549,6 @@
       "distanceM": 8222,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/13343755608"
-    },
-    {
-      "id": "osm:node/10776078821",
-      "category": "food",
-      "subcategory": "sweets",
-      "subcategories": [
-        "sweets"
-      ],
-      "name": "だがし屋",
-      "lat": 40.8023169,
-      "lng": 140.41705,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8225,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/10776078821"
     }
   ]
 }

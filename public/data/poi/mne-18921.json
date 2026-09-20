@@ -3,7 +3,7 @@
   "lat": 40.574645,
   "lng": 141.2646116,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:38:32Z",
+  "generatedAt": "2026-09-20T20:46:12Z",
   "pois": [
     {
       "id": "osm:node/7142415335",
@@ -130,6 +130,24 @@
       "distanceM": 6137,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7142415304"
+    },
+    {
+      "id": "osm:node/7142416196",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "居酒屋パブ もか",
+      "lat": 40.6138283,
+      "lng": 141.2129031,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6168,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7142416196"
     },
     {
       "id": "osm:node/7142415306",
@@ -526,24 +544,6 @@
       "distanceM": 6389,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7142415297"
-    },
-    {
-      "id": "osm:node/6905183216",
-      "category": "tourism",
-      "subcategory": "tourism_other",
-      "subcategories": [
-        "tourism_other"
-      ],
-      "name": "Ochrea",
-      "lat": 40.6140929,
-      "lng": 141.2095848,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6390,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/6905183216"
     }
   ]
 }

@@ -3,8 +3,44 @@
   "lat": 40.577739,
   "lng": 140.300462,
   "radiusM": 10000,
-  "generatedAt": "2026-09-13T20:37:57Z",
+  "generatedAt": "2026-09-20T20:44:48Z",
   "pois": [
+    {
+      "id": "osm:node/14201269252",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "目屋渓谷ふるさと展望台公園",
+      "lat": 40.5738905,
+      "lng": 140.3005941,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 428,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14201269252"
+    },
+    {
+      "id": "osm:node/14201269291",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "熊野宮神社",
+      "lat": 40.5787906,
+      "lng": 140.2932708,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 618,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14201269291"
+    },
     {
       "id": "osm:node/12469346589",
       "category": "tourism",
@@ -115,6 +151,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/7059839365"
     },
     {
+      "id": "osm:node/14201327073",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": null,
+      "lat": 40.6156666,
+      "lng": 140.3179942,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4470,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14201327073"
+    },
+    {
       "id": "osm:way/727228494",
       "category": "tourism",
       "subcategory": "koen",
@@ -207,24 +261,6 @@
       "sourceUrl": "https://www.openstreetmap.org/way/684031272"
     },
     {
-      "id": "osm:way/825426954",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "山陽",
-      "lat": 40.6194092,
-      "lng": 140.3424192,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5833,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/825426954"
-    },
-    {
       "id": "osm:way/825423903",
       "category": "lodging",
       "subcategory": "hotel",
@@ -261,24 +297,6 @@
       "sourceUrl": "https://www.openstreetmap.org/node/7707250480"
     },
     {
-      "id": "osm:way/825426955",
-      "category": "food",
-      "subcategory": "cafe",
-      "subcategories": [
-        "cafe"
-      ],
-      "name": "山陽の茶屋",
-      "lat": 40.6196428,
-      "lng": 140.3426657,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5866,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/825426955"
-    },
-    {
       "id": "osm:way/825423904",
       "category": "lodging",
       "subcategory": "hotel",
@@ -313,24 +331,6 @@
       "distanceM": 5869,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7707315523"
-    },
-    {
-      "id": "osm:way/825426956",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "奥富士出雲神社",
-      "lat": 40.620064,
-      "lng": 140.3421771,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5878,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/825426956"
     },
     {
       "id": "osm:node/12103741938",
