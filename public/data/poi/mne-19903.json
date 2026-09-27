@@ -3,7 +3,7 @@
   "lat": 37.766524,
   "lng": 140.58845,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T22:25:10Z",
+  "generatedAt": "2026-09-27T23:16:45Z",
   "pois": [
     {
       "id": "osm:node/13703106516",
@@ -148,24 +148,6 @@
       "distanceM": 5576,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/13703106518"
-    },
-    {
-      "id": "osm:way/561932765",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "保原総合公園",
-      "lat": 37.8189019,
-      "lng": 140.5697566,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6051,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/561932765"
     },
     {
       "id": "osm:node/13703106512",
@@ -330,22 +312,22 @@
       "sourceUrl": "https://www.openstreetmap.org/node/13703106509"
     },
     {
-      "id": "osm:way/655032163",
-      "category": "food",
-      "subcategory": "food_other",
+      "id": "osm:node/14208891215",
+      "category": "onsen",
+      "subcategory": "kyukei",
       "subcategories": [
-        "food_other"
+        "kyukei"
       ],
-      "name": "白樺",
-      "lat": 37.7719108,
-      "lng": 140.4993814,
+      "name": null,
+      "lat": 37.7548747,
+      "lng": 140.5008046,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 7852,
+      "distanceM": 7813,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/655032163"
+      "sourceUrl": "https://www.openstreetmap.org/node/14208891215"
     },
     {
       "id": "osm:node/7340250252",
@@ -364,6 +346,60 @@
       "distanceM": 7947,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7340250252"
+    },
+    {
+      "id": "osm:node/14205557842",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": null,
+      "lat": 37.7597163,
+      "lng": 140.4957109,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8187,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14205557842"
+    },
+    {
+      "id": "osm:node/14205558156",
+      "category": "tourism",
+      "subcategory": "tenbo",
+      "subcategories": [
+        "tenbo"
+      ],
+      "name": null,
+      "lat": 37.7624667,
+      "lng": 140.4940389,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8311,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14205558156"
+    },
+    {
+      "id": "osm:node/14205558028",
+      "category": "onsen",
+      "subcategory": "kyukei",
+      "subcategories": [
+        "kyukei"
+      ],
+      "name": null,
+      "lat": 37.7620971,
+      "lng": 140.4938031,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8334,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14205558028"
     },
     {
       "id": "osm:node/6591106736",
@@ -508,42 +544,6 @@
       "distanceM": 8686,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/3452025054"
-    },
-    {
-      "id": "osm:node/3259600546",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "霊山",
-      "lat": 37.7687999,
-      "lng": 140.6873676,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8699,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/3259600546"
-    },
-    {
-      "id": "osm:way/338584533",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "花見山公園",
-      "lat": 37.7386822,
-      "lng": 140.4958758,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8708,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/338584533"
     }
   ]
 }

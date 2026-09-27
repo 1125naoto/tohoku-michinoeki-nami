@@ -3,7 +3,7 @@
   "lat": 40.577739,
   "lng": 140.300462,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T20:44:48Z",
+  "generatedAt": "2026-09-27T21:20:18Z",
   "pois": [
     {
       "id": "osm:node/14201269252",
@@ -261,24 +261,6 @@
       "sourceUrl": "https://www.openstreetmap.org/way/684031272"
     },
     {
-      "id": "osm:way/825423903",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "温泉旅館 中野",
-      "lat": 40.6189524,
-      "lng": 140.3434828,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5848,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/825423903"
-    },
-    {
       "id": "osm:node/7707250480",
       "category": "food",
       "subcategory": "food_other",
@@ -295,24 +277,6 @@
       "distanceM": 5857,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7707250480"
-    },
-    {
-      "id": "osm:way/825423904",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "富士見荘",
-      "lat": 40.619058,
-      "lng": 140.3436726,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5867,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/825423904"
     },
     {
       "id": "osm:node/7707315523",
@@ -547,6 +511,42 @@
       "distanceM": 6002,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7707278202"
+    },
+    {
+      "id": "osm:node/12103756224",
+      "category": "tourism",
+      "subcategory": "tourism_other",
+      "subcategories": [
+        "tourism_other"
+      ],
+      "name": null,
+      "lat": 40.6220384,
+      "lng": 140.341181,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6007,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/12103756224"
+    },
+    {
+      "id": "osm:node/7433296166",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "天狗森",
+      "lat": 40.5265549,
+      "lng": 140.325644,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6076,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/7433296166"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "lat": 38.7816435,
   "lng": 140.3105427,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T22:08:30Z",
+  "generatedAt": "2026-09-27T22:56:03Z",
   "pois": [
     {
       "id": "osm:node/5013580525",
@@ -319,13 +319,13 @@
         "sweets"
       ],
       "name": "杵屋本店",
-      "lat": 38.7637371,
-      "lng": 140.3004725,
+      "lat": 38.7636696,
+      "lng": 140.300462,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 2174,
+      "distanceM": 2181,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5013716148"
     },

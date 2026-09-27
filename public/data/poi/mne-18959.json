@@ -3,7 +3,7 @@
   "lat": 38.521611,
   "lng": 140.938388,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T21:31:50Z",
+  "generatedAt": "2026-09-27T22:14:03Z",
   "pois": [
     {
       "id": "osm:node/4623139596",
@@ -211,13 +211,13 @@
         "jinja_tera"
       ],
       "name": "鹿嶋神社",
-      "lat": 38.5286523,
-      "lng": 140.9077792,
+      "lat": 38.5288546,
+      "lng": 140.9076062,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 2775,
+      "distanceM": 2796,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4623229492"
     },
