@@ -3,7 +3,7 @@
   "lat": 37.96883141123573,
   "lng": 140.80764768547758,
   "radiusM": 10000,
-  "generatedAt": "2026-09-27T22:20:52Z",
+  "generatedAt": "2026-10-04T22:17:36Z",
   "pois": [
     {
       "id": "osm:node/4693234216",
@@ -294,6 +294,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/4693248700"
     },
     {
+      "id": "osm:node/4693262493",
+      "category": "food",
+      "subcategory": "sweets",
+      "subcategories": [
+        "sweets"
+      ],
+      "name": "お菓子のささもり 西仲町支店",
+      "lat": 37.9726929,
+      "lng": 140.7814971,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2332,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4693262493"
+    },
+    {
       "id": "osm:node/4693234203",
       "category": "food",
       "subcategory": "food_other",
@@ -364,6 +382,24 @@
       "distanceM": 2516,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4693248801"
+    },
+    {
+      "id": "osm:node/4693262492",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "翔屋",
+      "lat": 37.9776617,
+      "lng": 140.78118,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2519,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/4693262492"
     },
     {
       "id": "osm:node/4693248098",
@@ -508,42 +544,6 @@
       "distanceM": 2751,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4693233996"
-    },
-    {
-      "id": "osm:node/4693233995",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "寿し政",
-      "lat": 37.9769326,
-      "lng": 140.7779279,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 2756,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/4693233995"
-    },
-    {
-      "id": "osm:node/4693234197",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "旅館大正館",
-      "lat": 37.9787629,
-      "lng": 140.7786569,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": "+81 224 63 3210",
-      "website": null,
-      "distanceM": 2771,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/4693234197"
     }
   ]
 }

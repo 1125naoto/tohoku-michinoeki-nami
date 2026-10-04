@@ -3,7 +3,7 @@
   "lat": 38.5207813,
   "lng": 141.4687829,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T21:32:31Z",
+  "generatedAt": "2026-10-04T22:10:24Z",
   "pois": [
     {
       "id": "osm:node/8452007117",
@@ -22,6 +22,24 @@
       "distanceM": 2506,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8452007117"
+    },
+    {
+      "id": "osm:node/8452007118",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "満照寺",
+      "lat": 38.5303583,
+      "lng": 141.496093,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2603,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8452007118"
     },
     {
       "id": "osm:node/8452006619",
@@ -526,24 +544,6 @@
       "distanceM": 8021,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8451977521"
-    },
-    {
-      "id": "osm:node/3422602285",
-      "category": "tourism",
-      "subcategory": "tourism_other",
-      "subcategories": [
-        "tourism_other"
-      ],
-      "name": "躍動",
-      "lat": 38.4513914,
-      "lng": 141.43925,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8133,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/3422602285"
     }
   ]
 }

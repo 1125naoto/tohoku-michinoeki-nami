@@ -3,7 +3,7 @@
   "lat": 40.387808,
   "lng": 141.2554758,
   "radiusM": 10000,
-  "generatedAt": "2026-09-27T21:26:30Z",
+  "generatedAt": "2026-10-04T21:23:19Z",
   "pois": [
     {
       "id": "osm:node/5447544684",
@@ -229,13 +229,13 @@
         "sweets"
       ],
       "name": "きんか堂",
-      "lat": 40.380504,
-      "lng": 141.2586634,
+      "lat": 40.3805083,
+      "lng": 141.2586122,
       "address": null,
       "openingHoursRaw": null,
       "phone": "+81 179 22 2740",
       "website": null,
-      "distanceM": 856,
+      "distanceM": 854,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5447544685"
     },
@@ -265,8 +265,8 @@
         "koen"
       ],
       "name": "関根ふれあい公園",
-      "lat": 40.3799109,
-      "lng": 141.2563451,
+      "lat": 40.3799118,
+      "lng": 141.256331,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
@@ -499,13 +499,13 @@
         "food_other"
       ],
       "name": "すなっく もも香",
-      "lat": 40.3778219,
-      "lng": 141.2583369,
+      "lat": 40.3778052,
+      "lng": 141.2582923,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1137,
+      "distanceM": 1138,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/899455501"
     },
@@ -535,8 +535,8 @@
         "shokudo"
       ],
       "name": "兼田やきとり",
-      "lat": 40.3769965,
-      "lng": 141.2542735,
+      "lat": 40.3770023,
+      "lng": 141.2542033,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
