@@ -3,7 +3,7 @@
   "lat": 39.8437273,
   "lng": 141.1895098,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:34:50Z",
+  "generatedAt": "2026-10-11T21:51:51Z",
   "pois": [
     {
       "id": "osm:way/245394664",
@@ -348,6 +348,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/1527203448"
     },
     {
+      "id": "osm:way/1565178523",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "いずみ巣子NT東公園",
+      "lat": 39.8125543,
+      "lng": 141.1163628,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 7144,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1565178523"
+    },
+    {
       "id": "osm:way/593137784",
       "category": "tourism",
       "subcategory": "koen",
@@ -355,8 +373,8 @@
         "koen"
       ],
       "name": "いずみ巣子NTわんぱく広場",
-      "lat": 39.8115485,
-      "lng": 141.1146244,
+      "lat": 39.8115814,
+      "lng": 141.1145975,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
@@ -526,24 +544,6 @@
       "distanceM": 8525,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7443958289"
-    },
-    {
-      "id": "osm:way/706971668",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": null,
-      "lat": 39.9203225,
-      "lng": 141.1999513,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8563,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/706971668"
     }
   ]
 }

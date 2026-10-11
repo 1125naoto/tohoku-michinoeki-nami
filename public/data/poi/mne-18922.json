@@ -3,7 +3,7 @@
   "lat": 40.7371457,
   "lng": 140.4427046,
   "radiusM": 10000,
-  "generatedAt": "2026-09-27T21:12:49Z",
+  "generatedAt": "2026-10-11T21:40:39Z",
   "pois": [
     {
       "id": "osm:node/8939057956",
@@ -295,6 +295,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/8933144819"
     },
     {
+      "id": "osm:node/13330375402",
+      "category": "food",
+      "subcategory": "ramen",
+      "subcategories": [
+        "ramen"
+      ],
+      "name": "麺やとしま",
+      "lat": 40.7941131,
+      "lng": 140.4462289,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6341,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/13330375402"
+    },
+    {
       "id": "osm:node/8757089868",
       "category": "onsen",
       "subcategory": "kyukei",
@@ -527,24 +545,6 @@
       "distanceM": 7424,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/10776078810"
-    },
-    {
-      "id": "osm:node/9961088730",
-      "category": "tourism",
-      "subcategory": "meisho",
-      "subcategories": [
-        "meisho"
-      ],
-      "name": "裾野地区体育文化センター",
-      "lat": 40.718819,
-      "lng": 140.3579584,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7426,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/9961088730"
     }
   ]
 }

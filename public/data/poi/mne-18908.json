@@ -3,7 +3,7 @@
   "lat": 40.387808,
   "lng": 141.2554758,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:23:19Z",
+  "generatedAt": "2026-10-11T21:45:52Z",
   "pois": [
     {
       "id": "osm:node/5447544684",
@@ -391,13 +391,13 @@
         "jinja_tera"
       ],
       "name": "糠部神社",
-      "lat": 40.3816376,
-      "lng": 141.2646089,
+      "lat": 40.3816841,
+      "lng": 141.264595,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1034,
+      "distanceM": 1030,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/618545459"
     },
@@ -409,8 +409,8 @@
         "hakubutsukan"
       ],
       "name": "三戸町立歴史民俗資料館・三戸城温故館",
-      "lat": 40.3809932,
-      "lng": 141.2638973,
+      "lat": 40.3810691,
+      "lng": 141.2640093,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
@@ -427,13 +427,13 @@
         "hakubutsukan"
       ],
       "name": "三戸町立歴史民俗資料館",
-      "lat": 40.381104,
-      "lng": 141.2644637,
+      "lat": 40.3811912,
+      "lng": 141.2645562,
       "address": "三戸町大字梅内字城ノ下34-29",
       "openingHoursRaw": null,
       "phone": "+81 179 22 2739",
       "website": null,
-      "distanceM": 1065,
+      "distanceM": 1064,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/618545450"
     },

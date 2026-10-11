@@ -3,7 +3,7 @@
   "lat": 40.4815576,
   "lng": 140.6231652,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:20:02Z",
+  "generatedAt": "2026-10-11T21:44:57Z",
   "pois": [
     {
       "id": "osm:node/10775914197",
@@ -239,6 +239,42 @@
       "distanceM": 3763,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/684142415"
+    },
+    {
+      "id": "osm:way/1567216386",
+      "category": "lodging",
+      "subcategory": "hostel",
+      "subcategories": [
+        "hostel"
+      ],
+      "name": null,
+      "lat": 40.5159728,
+      "lng": 140.6217912,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3829,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1567216386"
+    },
+    {
+      "id": "osm:way/1567216385",
+      "category": "lodging",
+      "subcategory": "hostel",
+      "subcategories": [
+        "hostel"
+      ],
+      "name": "星の丘inおおわに",
+      "lat": 40.5161866,
+      "lng": 140.6219338,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 3852,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/1567216385"
     },
     {
       "id": "osm:way/1307923536",
@@ -510,42 +546,6 @@
       "distanceM": 6186,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1120780036"
-    },
-    {
-      "id": "osm:node/1511553695",
-      "category": "food",
-      "subcategory": "sweets",
-      "subcategories": [
-        "sweets"
-      ],
-      "name": "水野屋",
-      "lat": 40.5200802,
-      "lng": 140.5680584,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6329,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/1511553695"
-    },
-    {
-      "id": "osm:node/1511553669",
-      "category": "food",
-      "subcategory": "sweets",
-      "subcategories": [
-        "sweets"
-      ],
-      "name": "ラグノオ",
-      "lat": 40.5205532,
-      "lng": 140.5670057,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6430,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/1511553669"
     }
   ]
 }

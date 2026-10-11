@@ -3,7 +3,7 @@
   "lat": 40.728039,
   "lng": 141.274961,
   "radiusM": 10000,
-  "generatedAt": "2026-09-27T21:13:39Z",
+  "generatedAt": "2026-10-11T21:40:58Z",
   "pois": [
     {
       "id": "osm:node/6702709904",
@@ -67,14 +67,14 @@
       "subcategories": [
         "fastfood"
       ],
-      "name": "Subway",
-      "lat": 40.6891001,
-      "lng": 141.3667572,
+      "name": "サブウェイ",
+      "lat": 40.6888097,
+      "lng": 141.3664098,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 8867,
+      "distanceM": 8857,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5743402818"
     },
@@ -115,42 +115,6 @@
       "sourceUrl": "https://www.openstreetmap.org/node/5166245626"
     },
     {
-      "id": "osm:node/5743402819",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "Pizza Hut",
-      "lat": 40.6892307,
-      "lng": 141.3669231,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8872,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5743402819"
-    },
-    {
-      "id": "osm:node/5743402817",
-      "category": "food",
-      "subcategory": "fastfood",
-      "subcategories": [
-        "fastfood"
-      ],
-      "name": "Taco Bell",
-      "lat": 40.6890614,
-      "lng": 141.3669231,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8881,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5743402817"
-    },
-    {
       "id": "osm:node/5132852921",
       "category": "onsen",
       "subcategory": "kyukei",
@@ -167,6 +131,42 @@
       "distanceM": 8891,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5132852921"
+    },
+    {
+      "id": "osm:node/5743402817",
+      "category": "food",
+      "subcategory": "fastfood",
+      "subcategories": [
+        "fastfood"
+      ],
+      "name": "Taco Bell",
+      "lat": 40.6887822,
+      "lng": 141.3668719,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8892,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5743402817"
+    },
+    {
+      "id": "osm:node/5743402819",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "Pizza Hut",
+      "lat": 40.6888684,
+      "lng": 141.3669274,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8892,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5743402819"
     },
     {
       "id": "osm:node/6984189949",
