@@ -3,7 +3,7 @@
   "lat": 37.2228324,
   "lng": 140.4181372,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:38:03Z",
+  "generatedAt": "2026-10-18T21:21:03Z",
   "pois": [
     {
       "id": "osm:node/2469769721",
@@ -60,6 +60,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/8399473102"
     },
     {
+      "id": "osm:node/14286479023",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "CANプチBASEオートキャンプ場",
+      "lat": 37.2502202,
+      "lng": 140.364869,
+      "address": "福島県須賀川市",
+      "openingHoursRaw": null,
+      "phone": "080-4510-3652",
+      "website": null,
+      "distanceM": 5614,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479023"
+    },
+    {
       "id": "osm:node/6581798698",
       "category": "tourism",
       "subcategory": "camp",
@@ -69,7 +87,7 @@
       "name": "岩瀬牧場",
       "lat": 37.2515577,
       "lng": 140.3649795,
-      "address": null,
+      "address": "福島県須賀川市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -112,6 +130,24 @@
       "distanceM": 6314,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8399647657"
+    },
+    {
+      "id": "osm:node/14286479030",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "母畑レークサイドセンター",
+      "lat": 37.1949961,
+      "lng": 140.4841912,
+      "address": "福島県石川郡石川町",
+      "openingHoursRaw": null,
+      "phone": "0247-26-3986",
+      "website": null,
+      "distanceM": 6618,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479030"
     },
     {
       "id": "osm:way/75497088",
@@ -330,22 +366,22 @@
       "sourceUrl": "https://www.openstreetmap.org/node/6434775653"
     },
     {
-      "id": "osm:way/280884830",
+      "id": "osm:node/14286479027",
       "category": "tourism",
-      "subcategory": "jinja_tera",
+      "subcategory": "camp",
       "subcategories": [
-        "jinja_tera"
+        "camp"
       ],
-      "name": "浄土真宗　勝誓寺",
-      "lat": 37.2836116,
-      "lng": 140.3729798,
-      "address": null,
+      "name": "大池公園キャンプ場",
+      "lat": 37.211668,
+      "lng": 140.3302615,
+      "address": "福島県西白河郡矢吹町",
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "0248-42-2116",
       "website": null,
-      "distanceM": 7852,
+      "distanceM": 7880,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/280884830"
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479027"
     },
     {
       "id": "osm:node/12178490345",
@@ -382,6 +418,24 @@
       "distanceM": 7940,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2788070594"
+    },
+    {
+      "id": "osm:node/14286479026",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "ふれあいの森公園キャンプ場",
+      "lat": 37.2301491,
+      "lng": 140.3283494,
+      "address": "福島県岩瀬郡鏡石町",
+      "openingHoursRaw": null,
+      "phone": "0248-83-2381",
+      "website": null,
+      "distanceM": 7991,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479026"
     },
     {
       "id": "osm:way/279937597",
@@ -490,60 +544,6 @@
       "distanceM": 8098,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2838849899"
-    },
-    {
-      "id": "osm:way/280180385",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "広宣寺",
-      "lat": 37.2839557,
-      "lng": 140.3667649,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8177,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/280180385"
-    },
-    {
-      "id": "osm:node/2838849897",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": null,
-      "lat": 37.2558303,
-      "lng": 140.3351496,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8212,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/2838849897"
-    },
-    {
-      "id": "osm:way/280180384",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "妙法寺",
-      "lat": 37.2844544,
-      "lng": 140.3659948,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8261,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/280180384"
     }
   ]
 }

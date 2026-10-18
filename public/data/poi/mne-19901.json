@@ -3,7 +3,7 @@
   "lat": 40.295831,
   "lng": 140.82593,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:09:39Z",
+  "generatedAt": "2026-10-18T20:49:54Z",
   "pois": [
     {
       "id": "osm:way/591532570",
@@ -186,24 +186,6 @@
       "distanceM": 573,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/739551379"
-    },
-    {
-      "id": "osm:way/802988318",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "源泉かけ流し和風宿 岡部荘",
-      "lat": 40.2960395,
-      "lng": 140.8327824,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 582,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/802988318"
     },
     {
       "id": "osm:way/739551357",
@@ -547,6 +529,24 @@
       "distanceM": 5350,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/413232626"
+    },
+    {
+      "id": "osm:way/413232629",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "酒蔵 ビィハイヴ",
+      "lat": 40.2718873,
+      "lng": 140.769519,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5476,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/way/413232629"
     }
   ]
 }

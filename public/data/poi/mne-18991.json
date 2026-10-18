@@ -3,7 +3,7 @@
   "lat": 39.1095406,
   "lng": 140.2915146,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:18:47Z",
+  "generatedAt": "2026-10-18T20:58:49Z",
   "pois": [
     {
       "id": "osm:node/496974517",
@@ -58,6 +58,24 @@
       "distanceM": 247,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5181467545"
+    },
+    {
+      "id": "osm:node/14286234788",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "大平キャンプ場",
+      "lat": 39.1073214,
+      "lng": 140.2913118,
+      "address": "秋田県由利本荘市",
+      "openingHoursRaw": null,
+      "phone": "0184-57-2205",
+      "website": null,
+      "distanceM": 247,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286234788"
     },
     {
       "id": "osm:node/1307382764",
@@ -447,7 +465,7 @@
       "name": "鳥海大平キャンプ場",
       "lat": 39.071758,
       "lng": 140.2300833,
-      "address": null,
+      "address": "秋田県由利本荘市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -526,24 +544,6 @@
       "distanceM": 7351,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1021134268"
-    },
-    {
-      "id": "osm:node/8842040793",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": null,
-      "lat": 39.1752814,
-      "lng": 140.2711957,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7517,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/8842040793"
     }
   ]
 }

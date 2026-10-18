@@ -3,7 +3,7 @@
   "lat": 37.2505454,
   "lng": 140.5600321,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:35:45Z",
+  "generatedAt": "2026-10-18T21:19:22Z",
   "pois": [
     {
       "id": "osm:node/534020421",
@@ -348,6 +348,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/962689899"
     },
     {
+      "id": "osm:node/14286479021",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "ジュピアランドひらた",
+      "lat": 37.2605186,
+      "lng": 140.5378808,
+      "address": "福島県石川郡平田村",
+      "openingHoursRaw": null,
+      "phone": "0247-55-3535",
+      "website": null,
+      "distanceM": 2252,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479021"
+    },
+    {
       "id": "osm:way/962689921",
       "category": "tourism",
       "subcategory": "koen",
@@ -492,6 +510,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/12761970280"
     },
     {
+      "id": "osm:node/14286350490",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "緑とのふれあいの森公園",
+      "lat": 37.3110136,
+      "lng": 140.5740729,
+      "address": "福島県田村郡小野町",
+      "openingHoursRaw": null,
+      "phone": "0247-72-3597",
+      "website": null,
+      "distanceM": 6838,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286350490"
+    },
+    {
       "id": "osm:node/5033260635",
       "category": "tourism",
       "subcategory": "tenbo",
@@ -508,42 +544,6 @@
       "distanceM": 6959,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5033260635"
-    },
-    {
-      "id": "osm:node/8399647657",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "羽山",
-      "lat": 37.2516472,
-      "lng": 140.4795975,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7120,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/8399647657"
-    },
-    {
-      "id": "osm:way/1378289857",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "旅館西田屋支店",
-      "lat": 37.2756364,
-      "lng": 140.6357863,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7261,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/1378289857"
     }
   ]
 }

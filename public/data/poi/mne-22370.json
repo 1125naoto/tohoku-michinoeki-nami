@@ -3,7 +3,7 @@
   "lat": 40.417678331165035,
   "lng": 140.8577298921967,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:08:52Z",
+  "generatedAt": "2026-10-18T20:48:53Z",
   "pois": [
     {
       "id": "osm:node/3093376321",
@@ -35,7 +35,7 @@
       "lng": 140.8669615,
       "address": null,
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "+81 90 9524 2913",
       "website": null,
       "distanceM": 932,
       "source": "overpass",
@@ -184,24 +184,6 @@
       "distanceM": 2329,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/6924303675"
-    },
-    {
-      "id": "osm:way/739518717",
-      "category": "lodging",
-      "subcategory": "hotel",
-      "subcategories": [
-        "hotel"
-      ],
-      "name": "十和田ホテル Towadahotel",
-      "lat": 40.4395598,
-      "lng": 140.8432519,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 2724,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/739518717"
     },
     {
       "id": "osm:node/4194546492",
@@ -526,6 +508,24 @@
       "distanceM": 3244,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5604789587"
+    },
+    {
+      "id": "osm:node/14286211431",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "宇樽部キャンプ場",
+      "lat": 40.4276128,
+      "lng": 140.8940744,
+      "address": "青森県十和田市",
+      "openingHoursRaw": null,
+      "phone": "0176-75-2477",
+      "website": null,
+      "distanceM": 3269,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211431"
     },
     {
       "id": "osm:node/4196578591",

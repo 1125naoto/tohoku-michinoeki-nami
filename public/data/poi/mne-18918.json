@@ -3,7 +3,7 @@
   "lat": 41.2538342,
   "lng": 140.3467912,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T20:59:01Z",
+  "generatedAt": "2026-10-18T20:13:33Z",
   "pois": [
     {
       "id": "osm:node/8357401259",
@@ -166,6 +166,24 @@
       "distanceM": 383,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8357401265"
+    },
+    {
+      "id": "osm:node/14286177348",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "龍飛崎シーサイドパーク",
+      "lat": 41.257159,
+      "lng": 140.3442827,
+      "address": "青森県東津軽郡外ヶ浜町",
+      "openingHoursRaw": null,
+      "phone": "0174-38-2741",
+      "website": null,
+      "distanceM": 425,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286177348"
     },
     {
       "id": "osm:way/1432673002",
@@ -526,24 +544,6 @@
       "distanceM": 8632,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/877524712"
-    },
-    {
-      "id": "osm:way/1302196135",
-      "category": "onsen",
-      "subcategory": "kyukei",
-      "subcategories": [
-        "kyukei"
-      ],
-      "name": null,
-      "lat": 41.2053516,
-      "lng": 140.4281394,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8680,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/1302196135"
     }
   ]
 }

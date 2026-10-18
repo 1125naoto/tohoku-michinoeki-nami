@@ -3,7 +3,7 @@
   "lat": 40.7168253,
   "lng": 141.1552503,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:41:57Z",
+  "generatedAt": "2026-10-18T20:20:54Z",
   "pois": [
     {
       "id": "osm:node/5930639585",
@@ -51,7 +51,7 @@
       "name": "中央公園キャンプ場",
       "lat": 40.7405496,
       "lng": 141.1645269,
-      "address": null,
+      "address": "青森県上北郡七戸町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,

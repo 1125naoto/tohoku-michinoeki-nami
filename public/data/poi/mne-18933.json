@@ -3,7 +3,7 @@
   "lat": 40.113295,
   "lng": 141.806875,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:47:53Z",
+  "generatedAt": "2026-10-18T20:28:27Z",
   "pois": [
     {
       "id": "osm:way/559086809",
@@ -69,7 +69,7 @@
       "name": "玉川野営場",
       "lat": 40.0781767,
       "lng": 141.8312916,
-      "address": null,
+      "address": "岩手県九戸郡野田村",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,

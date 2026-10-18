@@ -3,7 +3,7 @@
   "lat": 39.060163,
   "lng": 139.875583,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:19:08Z",
+  "generatedAt": "2026-10-18T20:59:42Z",
   "pois": [
     {
       "id": "osm:node/5021916381",
@@ -51,7 +51,7 @@
       "name": "西浜キャンプ場 管理棟",
       "lat": 39.0687701,
       "lng": 139.8742127,
-      "address": null,
+      "address": "山形県飽海郡遊佐町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,

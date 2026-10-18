@@ -3,7 +3,7 @@
   "lat": 39.121158,
   "lng": 141.798998,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:58:56Z",
+  "generatedAt": "2026-10-18T20:38:11Z",
   "pois": [
     {
       "id": "osm:way/112431201",
@@ -15,10 +15,10 @@
       "name": "夏虫のお湯っこ",
       "lat": 39.1362158,
       "lng": 141.778506,
-      "address": null,
+      "address": "岩手県大船渡市",
       "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
+      "phone": "0192-44-3711",
+      "website": "https://www.sunfull.jp/oyukko/top",
       "distanceM": 2435,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/112431201"
@@ -33,7 +33,7 @@
       "name": "遊・・亭夏虫",
       "lat": 39.1380369,
       "lng": 141.7809462,
-      "address": null,
+      "address": "岩手県大船渡市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -76,6 +76,24 @@
       "distanceM": 2892,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/12638006223"
+    },
+    {
+      "id": "osm:node/14285406032",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "三陸アクティブ",
+      "lat": 39.0946525,
+      "lng": 141.80459,
+      "address": "岩手県大船渡市",
+      "openingHoursRaw": null,
+      "phone": "0192473756",
+      "website": "https://www.sanriku-active.com/",
+      "distanceM": 2987,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14285406032"
     },
     {
       "id": "osm:node/12635124757",
@@ -528,24 +546,6 @@
       "distanceM": 9041,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/3079755484"
-    },
-    {
-      "id": "osm:node/3079632838",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "鳥井そば店",
-      "lat": 39.0708605,
-      "lng": 141.7162401,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9071,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/3079632838"
     }
   ]
 }

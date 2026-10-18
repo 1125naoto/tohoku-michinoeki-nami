@@ -3,7 +3,7 @@
   "lat": 40.277839528436125,
   "lng": 141.66553614551745,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:46:32Z",
+  "generatedAt": "2026-10-18T20:27:10Z",
   "pois": [
     {
       "id": "osm:way/695916640",
@@ -95,6 +95,24 @@
       "distanceM": 7441,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7054275096"
+    },
+    {
+      "id": "osm:node/14287663290",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "久慈平岳キャンプ場",
+      "lat": 40.3287792,
+      "lng": 141.6068604,
+      "address": "岩手九戸郡洋野町",
+      "openingHoursRaw": null,
+      "phone": "0194-77-2111",
+      "website": null,
+      "distanceM": 7539,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14287663290"
     },
     {
       "id": "osm:node/7054275095",
@@ -214,7 +232,7 @@
       "name": "久慈平岳キャンプ場",
       "lat": 40.3550959,
       "lng": 141.6128513,
-      "address": null,
+      "address": "岩手県九戸郡洋野町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -239,6 +257,24 @@
       "distanceM": 9722,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/12294972618"
+    },
+    {
+      "id": "osm:node/14286211435",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "大和の丘森林公園",
+      "lat": 40.3585316,
+      "lng": 141.6211635,
+      "address": "岩手県九戸郡洋野町",
+      "openingHoursRaw": null,
+      "phone": "0194-65-2111",
+      "website": null,
+      "distanceM": 9729,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211435"
     },
     {
       "id": "osm:way/561799566",

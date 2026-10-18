@@ -3,7 +3,7 @@
   "lat": 37.2436603,
   "lng": 140.2447857,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:37:11Z",
+  "generatedAt": "2026-10-18T21:20:15Z",
   "pois": [
     {
       "id": "osm:node/8399444738",
@@ -112,6 +112,24 @@
       "distanceM": 7319,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/686510187"
+    },
+    {
+      "id": "osm:node/14286479026",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "ふれあいの森公園キャンプ場",
+      "lat": 37.2301491,
+      "lng": 140.3283494,
+      "address": "福島県岩瀬郡鏡石町",
+      "openingHoursRaw": null,
+      "phone": "0248-83-2381",
+      "website": null,
+      "distanceM": 7549,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479026"
     },
     {
       "id": "osm:node/12178490345",
@@ -277,6 +295,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/6048494809"
     },
     {
+      "id": "osm:node/14289691276",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "水と緑のふれあいランド",
+      "lat": 37.3026318,
+      "lng": 140.1910243,
+      "address": "福島県須賀川市",
+      "openingHoursRaw": null,
+      "phone": "0248-67-3355",
+      "website": null,
+      "distanceM": 8101,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14289691276"
+    },
+    {
       "id": "osm:node/2838849897",
       "category": "food",
       "subcategory": "food_other",
@@ -349,6 +385,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/970842986"
     },
     {
+      "id": "osm:node/14285398041",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "プライベートリゾート 響きの宿＆森",
+      "lat": 37.3163783,
+      "lng": 140.2264027,
+      "address": "福島県須賀川市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8248,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14285398041"
+    },
+    {
       "id": "osm:way/968701010",
       "category": "tourism",
       "subcategory": "koen",
@@ -383,6 +437,24 @@
       "distanceM": 8357,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/967420666"
+    },
+    {
+      "id": "osm:node/14286479027",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "大池公園キャンプ場",
+      "lat": 37.211668,
+      "lng": 140.3302615,
+      "address": "福島県西白河郡矢吹町",
+      "openingHoursRaw": null,
+      "phone": "0248-42-2116",
+      "website": null,
+      "distanceM": 8362,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479027"
     },
     {
       "id": "osm:way/1006323843",
@@ -473,78 +545,6 @@
       "distanceM": 8455,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/968701005"
-    },
-    {
-      "id": "osm:node/12290029161",
-      "category": "tourism",
-      "subcategory": "hakubutsukan",
-      "subcategories": [
-        "hakubutsukan"
-      ],
-      "name": "特撮アーカイブセンター",
-      "lat": 37.3180804,
-      "lng": 140.2770665,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8754,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/12290029161"
-    },
-    {
-      "id": "osm:node/2788070594",
-      "category": "food",
-      "subcategory": "sweets",
-      "subcategories": [
-        "sweets"
-      ],
-      "name": "アンブロス　洋菓子",
-      "lat": 37.2049848,
-      "lng": 140.3313203,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8786,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/2788070594"
-    },
-    {
-      "id": "osm:node/2784840207",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "窯焼　pizza　ナストロ",
-      "lat": 37.2506205,
-      "lng": 140.3441956,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8833,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/2784840207"
-    },
-    {
-      "id": "osm:way/967450127",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "小池公園",
-      "lat": 37.2092591,
-      "lng": 140.334896,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8848,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/967450127"
     }
   ]
 }

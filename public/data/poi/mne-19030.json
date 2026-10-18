@@ -3,8 +3,44 @@
   "lat": 37.2399765,
   "lng": 140.0633922,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:37:54Z",
+  "generatedAt": "2026-10-18T21:20:44Z",
   "pois": [
+    {
+      "id": "osm:node/14281990826",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "スノーピーク白河高原キャンプフィールド",
+      "lat": 37.2302927,
+      "lng": 140.0573085,
+      "address": "福島県岩瀬郡天栄村",
+      "openingHoursRaw": null,
+      "phone": "0248-94-8745",
+      "website": "https://www.snowpeak.co.jp/locations/shirakawa/",
+      "distanceM": 1204,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14281990826"
+    },
+    {
+      "id": "osm:node/14281990816",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "羽鳥湖畔オートキャンプ場",
+      "lat": 37.2501863,
+      "lng": 140.0688718,
+      "address": "福島県岩瀬郡天栄村",
+      "openingHoursRaw": null,
+      "phone": "0248-85-2033",
+      "website": "http://hatoriko-camp.co.jp",
+      "distanceM": 1235,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14281990816"
+    },
     {
       "id": "osm:way/491722956",
       "category": "food",
@@ -76,6 +112,24 @@
       "distanceM": 2216,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8399650481"
+    },
+    {
+      "id": "osm:node/14286479022",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "太平洋クラブ白河リゾートオートキャンプ場",
+      "lat": 37.2503451,
+      "lng": 140.0374482,
+      "address": "福島県岩瀬郡天栄村",
+      "openingHoursRaw": null,
+      "phone": "0248-85-2111",
+      "website": null,
+      "distanceM": 2570,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479022"
     },
     {
       "id": "osm:node/3261870216",
@@ -166,6 +220,24 @@
       "distanceM": 4508,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/10906806715"
+    },
+    {
+      "id": "osm:node/14286479024",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "聖ケ岩ふるさとの森キャンプ場",
+      "lat": 37.24181,
+      "lng": 140.120491,
+      "address": "福島県白河市",
+      "openingHoursRaw": null,
+      "phone": "0248-46-2471",
+      "website": null,
+      "distanceM": 5059,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479024"
     },
     {
       "id": "osm:node/8405463197",
@@ -385,6 +457,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10968646211"
     },
     {
+      "id": "osm:node/14286479032",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "にしごう家族旅行村キョロロン村",
+      "lat": 37.1757473,
+      "lng": 140.037471,
+      "address": "福島県西白河郡西郷村",
+      "openingHoursRaw": null,
+      "phone": "0248-36-2231",
+      "website": null,
+      "distanceM": 7502,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479032"
+    },
+    {
       "id": "osm:node/7128607035",
       "category": "tourism",
       "subcategory": "keishou",
@@ -455,96 +545,6 @@
       "distanceM": 7890,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8401835646"
-    },
-    {
-      "id": "osm:way/310911933",
-      "category": "lodging",
-      "subcategory": "guesthouse",
-      "subcategories": [
-        "guesthouse"
-      ],
-      "name": "センターハウス",
-      "lat": 37.2670684,
-      "lng": 139.9800453,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7968,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/310911933"
-    },
-    {
-      "id": "osm:node/1231902601",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "一杯山",
-      "lat": 37.2108099,
-      "lng": 139.9810644,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7978,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/1231902601"
-    },
-    {
-      "id": "osm:node/7128607036",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "大白森山",
-      "lat": 37.2019166,
-      "lng": 139.9833221,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8257,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/7128607036"
-    },
-    {
-      "id": "osm:node/8405376561",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "二杯山",
-      "lat": 37.2071264,
-      "lng": 139.9785817,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8351,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/8405376561"
-    },
-    {
-      "id": "osm:node/5337415228",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "二岐山",
-      "lat": 37.2464224,
-      "lng": 139.9673572,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8531,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5337415228"
     }
   ]
 }

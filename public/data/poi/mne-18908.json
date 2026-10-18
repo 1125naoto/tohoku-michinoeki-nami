@@ -3,7 +3,7 @@
   "lat": 40.387808,
   "lng": 141.2554758,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:45:52Z",
+  "generatedAt": "2026-10-18T20:26:41Z",
   "pois": [
     {
       "id": "osm:node/5447544684",
@@ -528,22 +528,22 @@
       "sourceUrl": "https://www.openstreetmap.org/node/5447543436"
     },
     {
-      "id": "osm:way/899467246",
+      "id": "osm:node/5449463046",
       "category": "food",
-      "subcategory": "shokudo",
+      "subcategory": "sweets",
       "subcategories": [
-        "shokudo"
+        "sweets"
       ],
-      "name": "兼田やきとり",
-      "lat": 40.3770023,
-      "lng": 141.2542033,
+      "name": "久保菓子店",
+      "lat": 40.376959,
+      "lng": 141.2541011,
       "address": null,
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "+81 179 23 3679",
       "website": null,
-      "distanceM": 1206,
+      "distanceM": 1212,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/899467246"
+      "sourceUrl": "https://www.openstreetmap.org/node/5449463046"
     }
   ]
 }

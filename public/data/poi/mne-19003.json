@@ -3,7 +3,7 @@
   "lat": 38.436059,
   "lng": 140.099237,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T22:59:47Z",
+  "generatedAt": "2026-10-18T21:03:02Z",
   "pois": [
     {
       "id": "osm:way/683657724",
@@ -23,6 +23,24 @@
       "distanceM": 108,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/683657724"
+    },
+    {
+      "id": "osm:node/14286246528",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "大沼キャンプ場",
+      "lat": 38.4204169,
+      "lng": 140.105821,
+      "address": "山形県西村山郡西川町",
+      "openingHoursRaw": null,
+      "phone": "0237-74-4119",
+      "website": null,
+      "distanceM": 1831,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286246528"
     },
     {
       "id": "osm:node/14095318334",
@@ -528,24 +546,6 @@
       "distanceM": 6988,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8639268395"
-    },
-    {
-      "id": "osm:node/14095335920",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "扇平山",
-      "lat": 38.4935241,
-      "lng": 140.0611606,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7199,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14095335920"
     }
   ]
 }

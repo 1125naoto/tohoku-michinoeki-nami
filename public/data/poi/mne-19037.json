@@ -3,7 +3,7 @@
   "lat": 37.0688217,
   "lng": 139.6154861,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T23:43:43Z",
+  "generatedAt": "2026-10-18T21:22:26Z",
   "pois": [
     {
       "id": "osm:node/3263393048",
@@ -114,6 +114,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/8735611492"
     },
     {
+      "id": "osm:node/14286482366",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "あらかい健康キャンプ村",
+      "lat": 37.0707699,
+      "lng": 139.6822439,
+      "address": "福島県南会津郡南会津町",
+      "openingHoursRaw": null,
+      "phone": "0241-66-2270",
+      "website": null,
+      "distanceM": 5927,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286482366"
+    },
+    {
       "id": "osm:node/8628570492",
       "category": "tourism",
       "subcategory": "keishou",
@@ -220,6 +238,24 @@
       "distanceM": 7206,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/3259600520"
+    },
+    {
+      "id": "osm:node/14286482367",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "しらかば公園キャンプ場",
+      "lat": 37.0674007,
+      "lng": 139.527994,
+      "address": "福島県南会津郡南会津町",
+      "openingHoursRaw": null,
+      "phone": "0241-78-2028",
+      "website": null,
+      "distanceM": 7764,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286482367"
     },
     {
       "id": "osm:node/10064984620",
@@ -343,7 +379,7 @@
       "name": "しらかば公園キャンプ場",
       "lat": 37.0539601,
       "lng": 139.523776,
-      "address": null,
+      "address": "福島県南会津郡南会津町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,

@@ -3,7 +3,7 @@
   "lat": 40.1509394,
   "lng": 141.5735177,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:27:46Z",
+  "generatedAt": "2026-10-18T20:28:08Z",
   "pois": [
     {
       "id": "osm:node/7293582630",
@@ -58,6 +58,24 @@
       "distanceM": 6072,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7379654724"
+    },
+    {
+      "id": "osm:node/14289691267",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "平庭高原キャンプ場",
+      "lat": 40.0978417,
+      "lng": 141.5533591,
+      "address": "岩手県久慈市",
+      "openingHoursRaw": null,
+      "phone": "0194-72-2973",
+      "website": null,
+      "distanceM": 6148,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14289691267"
     },
     {
       "id": "osm:node/7293582629",
@@ -195,7 +213,7 @@
       "name": "平庭高原キャンプ場",
       "lat": 40.0821643,
       "lng": 141.5209816,
-      "address": null,
+      "address": "岩手県久慈市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,

@@ -3,8 +3,26 @@
   "lat": 37.032756,
   "lng": 139.395721,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:40:00Z",
+  "generatedAt": "2026-10-18T21:22:44Z",
   "pois": [
+    {
+      "id": "osm:node/14286485908",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "キャンプ場・泉",
+      "lat": 37.0321584,
+      "lng": 139.3960977,
+      "address": "福島県南会津郡檜枝岐村",
+      "openingHoursRaw": null,
+      "phone": "0241-75-2180",
+      "website": null,
+      "distanceM": 74,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286485908"
+    },
     {
       "id": "osm:way/461697733",
       "category": "onsen",
@@ -60,6 +78,24 @@
       "distanceM": 193,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/461697728"
+    },
+    {
+      "id": "osm:node/14286485907",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "見通りオートキャンプ場",
+      "lat": 37.0343112,
+      "lng": 139.397857,
+      "address": "福島県南会津郡檜枝岐村",
+      "openingHoursRaw": null,
+      "phone": "0241-75-2075",
+      "website": null,
+      "distanceM": 257,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286485907"
     },
     {
       "id": "osm:way/461690498",
@@ -406,6 +442,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/3259600548"
     },
     {
+      "id": "osm:node/14286485914",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "オートキャンプ尾瀬街道",
+      "lat": 37.0038722,
+      "lng": 139.3672049,
+      "address": "福島県南会津郡檜枝岐村",
+      "openingHoursRaw": null,
+      "phone": "0241-75-2388",
+      "website": null,
+      "distanceM": 4090,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286485914"
+    },
+    {
       "id": "osm:node/13898287954",
       "category": "tourism",
       "subcategory": "camp",
@@ -415,31 +469,49 @@
       "name": "小豆温泉せせらぎオートキャンプ場Red Bean",
       "lat": 37.067431,
       "lng": 139.4159066,
-      "address": null,
+      "address": "福島県南会津郡南会津町",
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "0241-76-7750",
       "website": null,
       "distanceM": 4252,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/13898287954"
     },
     {
-      "id": "osm:way/461657861",
+      "id": "osm:node/14286485915",
+      "category": "lodging",
+      "subcategory": "guesthouse",
+      "subcategories": [
+        "guesthouse"
+      ],
+      "name": "バンガロー&キャンプ からまつ",
+      "lat": 37.002764,
+      "lng": 139.365312,
+      "address": "福島県南会津郡檜枝岐村",
+      "openingHoursRaw": null,
+      "phone": "0241-75-2220",
+      "website": null,
+      "distanceM": 4291,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286485915"
+    },
+    {
+      "id": "osm:node/14285398045",
       "category": "tourism",
       "subcategory": "camp",
       "subcategories": [
         "camp"
       ],
       "name": "野営キリンテかわばた",
-      "lat": 37.0021943,
-      "lng": 139.3643725,
-      "address": null,
+      "lat": 37.0021553,
+      "lng": 139.3643828,
+      "address": "福島県南会津郡檜枝岐村",
       "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4393,
+      "phone": "090-5767-8866",
+      "website": "https://oze-camp.com/",
+      "distanceM": 4395,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/461657861"
+      "sourceUrl": "https://www.openstreetmap.org/node/14285398045"
     },
     {
       "id": "osm:node/9012714974",
@@ -476,79 +548,6 @@
       "distanceM": 5340,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5314945548"
-    },
-    {
-      "id": "osm:way/479248927",
-      "category": "onsen",
-      "subcategory": "higaeri_onsen",
-      "subcategories": [
-        "higaeri_onsen",
-        "onsen"
-      ],
-      "name": "小豆温泉 窓明の湯",
-      "lat": 37.0773692,
-      "lng": 139.4188191,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5368,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/479248927"
-    },
-    {
-      "id": "osm:way/1154439339",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": null,
-      "lat": 36.9839123,
-      "lng": 139.3932249,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5436,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/1154439339"
-    },
-    {
-      "id": "osm:node/730314677",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "白身山",
-      "lat": 37.004218,
-      "lng": 139.44819,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5636,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/730314677"
-    },
-    {
-      "id": "osm:node/5923715549",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "三ツ岩岳",
-      "lat": 37.0818651,
-      "lng": 139.3795967,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5645,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5923715549"
     }
   ]
 }
