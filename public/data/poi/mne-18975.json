@@ -3,7 +3,7 @@
   "lat": 39.5221473,
   "lng": 140.3767219,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T22:39:39Z",
+  "generatedAt": "2026-10-25T22:11:43Z",
   "pois": [
     {
       "id": "osm:node/4501709131",
@@ -76,24 +76,6 @@
       "distanceM": 835,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/13543487412"
-    },
-    {
-      "id": "osm:way/984709224",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": null,
-      "lat": 39.5483213,
-      "lng": 140.3684397,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 2996,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/984709224"
     },
     {
       "id": "osm:way/796365293",
@@ -544,6 +526,24 @@
       "distanceM": 6375,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/9323370379"
+    },
+    {
+      "id": "osm:node/9323370381",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "土大森山",
+      "lat": 39.469649,
+      "lng": 140.4068879,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6386,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9323370381"
     }
   ]
 }

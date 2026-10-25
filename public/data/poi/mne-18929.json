@@ -3,7 +3,7 @@
   "lat": 39.6516145,
   "lng": 141.3535295,
   "radiusM": 10000,
-  "generatedAt": "2026-09-20T21:05:50Z",
+  "generatedAt": "2026-10-25T21:12:52Z",
   "pois": [
     {
       "id": "osm:node/4277720096",
@@ -22,6 +22,24 @@
       "distanceM": 460,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4277720096"
+    },
+    {
+      "id": "osm:node/14287663294",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "区界高原キャンプ場",
+      "lat": 39.6533866,
+      "lng": 141.3596704,
+      "address": "岩手宮古市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 561,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14287663294"
     },
     {
       "id": "osm:node/7720612754",
@@ -130,6 +148,24 @@
       "distanceM": 8005,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7720612757"
+    },
+    {
+      "id": "osm:node/14285406031",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "Luciola",
+      "lat": 39.6247434,
+      "lng": 141.2663016,
+      "address": "岩手県盛岡市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://luciola-ggp.com/",
+      "distanceM": 8045,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14285406031"
     },
     {
       "id": "osm:node/7720612758",

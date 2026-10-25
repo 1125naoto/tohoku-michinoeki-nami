@@ -3,7 +3,7 @@
   "lat": 39.8437273,
   "lng": 141.1895098,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:51:51Z",
+  "generatedAt": "2026-10-25T21:08:57Z",
   "pois": [
     {
       "id": "osm:way/245394664",
@@ -112,6 +112,24 @@
       "distanceM": 3772,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7293758501"
+    },
+    {
+      "id": "osm:node/14286218517",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "姫神山一本杉園地キャンプ場",
+      "lat": 39.8719577,
+      "lng": 141.2185137,
+      "address": "岩手県盛岡市",
+      "openingHoursRaw": null,
+      "phone": "019-683-2111",
+      "website": null,
+      "distanceM": 3998,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218517"
     },
     {
       "id": "osm:node/1853390774",
@@ -526,24 +544,6 @@
       "distanceM": 8441,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/993373350"
-    },
-    {
-      "id": "osm:node/7443958289",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "松森山",
-      "lat": 39.8829354,
-      "lng": 141.1036777,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8525,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/7443958289"
     }
   ]
 }

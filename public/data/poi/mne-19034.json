@@ -3,7 +3,7 @@
   "lat": 37.107429,
   "lng": 140.992995,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:39:06Z",
+  "generatedAt": "2026-10-25T23:19:37Z",
   "pois": [
     {
       "id": "osm:node/6432694398",
@@ -475,6 +475,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/3385266563"
     },
     {
+      "id": "osm:node/14286482362",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "ワンダーファーム キャンプフィールド",
+      "lat": 37.124454,
+      "lng": 140.9467115,
+      "address": "福島県いわき市",
+      "openingHoursRaw": null,
+      "phone": "0246-38-8853",
+      "website": null,
+      "distanceM": 4519,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286482362"
+    },
+    {
       "id": "osm:node/1214288219",
       "category": "lodging",
       "subcategory": "hostel",
@@ -527,24 +545,6 @@
       "distanceM": 5472,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/3385266560"
-    },
-    {
-      "id": "osm:node/11145980726",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "Shofukuji 正福寺",
-      "lat": 37.1548441,
-      "lng": 140.9764391,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 5473,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/11145980726"
     }
   ]
 }

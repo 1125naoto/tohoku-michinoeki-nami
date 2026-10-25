@@ -3,7 +3,7 @@
   "lat": 39.914274,
   "lng": 141.902637,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:50:05Z",
+  "generatedAt": "2026-10-25T21:06:38Z",
   "pois": [
     {
       "id": "osm:node/8909399179",
@@ -474,22 +474,22 @@
       "sourceUrl": "https://www.openstreetmap.org/way/439974072"
     },
     {
-      "id": "osm:node/4379346044",
-      "category": "lodging",
-      "subcategory": "hotel",
+      "id": "osm:node/14286218519",
+      "category": "tourism",
+      "subcategory": "camp",
       "subcategories": [
-        "hotel"
+        "camp"
       ],
       "name": "ふれあいらんど岩泉",
-      "lat": 39.8408717,
-      "lng": 141.8662502,
-      "address": null,
+      "lat": 39.8408889,
+      "lng": 141.8663113,
+      "address": "岩手県下閉伊郡岩泉町",
       "openingHoursRaw": null,
-      "phone": null,
-      "website": "http://www.fureailand-iwaizumi.jp/",
-      "distanceM": 8733,
+      "phone": "0194-22-5211",
+      "website": null,
+      "distanceM": 8729,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/4379346044"
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218519"
     },
     {
       "id": "osm:node/4379346045",

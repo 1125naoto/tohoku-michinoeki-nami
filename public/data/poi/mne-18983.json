@@ -3,7 +3,7 @@
   "lat": 39.5420844,
   "lng": 140.052933,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:15:14Z",
+  "generatedAt": "2026-10-25T22:09:51Z",
   "pois": [
     {
       "id": "osm:node/11446678096",
@@ -167,6 +167,24 @@
       "distanceM": 150,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5185419424"
+    },
+    {
+      "id": "osm:node/14286177376",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "岩城オートキャンプ場",
+      "lat": 39.5406985,
+      "lng": 140.052947,
+      "address": "秋田県由利本荘市",
+      "openingHoursRaw": null,
+      "phone": "0184-73-3789",
+      "website": null,
+      "distanceM": 154,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286177376"
     },
     {
       "id": "osm:way/756544474",
@@ -527,24 +545,6 @@
       "distanceM": 4764,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7456308340"
-    },
-    {
-      "id": "osm:way/844322570",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "龍門寺",
-      "lat": 39.5042532,
-      "lng": 140.0815293,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4869,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/844322570"
     }
   ]
 }

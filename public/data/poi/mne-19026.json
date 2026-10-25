@@ -3,8 +3,26 @@
   "lat": 37.5699562,
   "lng": 140.5773494,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:31:30Z",
+  "generatedAt": "2026-10-25T23:01:46Z",
   "pois": [
+    {
+      "id": "osm:node/14286378310",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "夏無沼キャンプ場",
+      "lat": 37.6064533,
+      "lng": 140.6054034,
+      "address": "福島県二本松市",
+      "openingHoursRaw": null,
+      "phone": "0243-66-2490",
+      "website": null,
+      "distanceM": 4752,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286378310"
+    },
     {
       "id": "osm:node/4413017829",
       "category": "tourism",
@@ -115,6 +133,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/443758466"
     },
     {
+      "id": "osm:node/14287673702",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "日山キャンプ場",
+      "lat": 37.5374704,
+      "lng": 140.6557558,
+      "address": "福島二本松市",
+      "openingHoursRaw": null,
+      "phone": "0243-56-2124",
+      "website": null,
+      "distanceM": 7799,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14287673702"
+    },
+    {
       "id": "osm:node/10596297720",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -131,6 +167,24 @@
       "distanceM": 8236,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/10596297720"
+    },
+    {
+      "id": "osm:node/14286378308",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "Sakura Bushcraft Field",
+      "lat": 37.6199895,
+      "lng": 140.5028925,
+      "address": "福島県二本松市",
+      "openingHoursRaw": null,
+      "phone": "080-4620-0038",
+      "website": "https://bikecamping.jp/sbf/",
+      "distanceM": 8601,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286378308"
     },
     {
       "id": "osm:way/723039548",

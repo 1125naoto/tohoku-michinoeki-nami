@@ -3,7 +3,7 @@
   "lat": 37.6678183,
   "lng": 140.5766931,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:29:38Z",
+  "generatedAt": "2026-10-25T22:55:50Z",
   "pois": [
     {
       "id": "osm:node/14041201443",
@@ -76,6 +76,24 @@
       "distanceM": 2624,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/14041201440"
+    },
+    {
+      "id": "osm:node/14286236199",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "峠の森自然公園",
+      "lat": 37.6660918,
+      "lng": 140.6151369,
+      "address": "福島県伊達郡川俣町",
+      "openingHoursRaw": null,
+      "phone": "024-566-2111",
+      "website": null,
+      "distanceM": 3389,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286236199"
     },
     {
       "id": "osm:way/734026595",
@@ -258,6 +276,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/13703106514"
     },
     {
+      "id": "osm:node/14286378310",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "夏無沼キャンプ場",
+      "lat": 37.6064533,
+      "lng": 140.6054034,
+      "address": "福島県二本松市",
+      "openingHoursRaw": null,
+      "phone": "0243-66-2490",
+      "website": null,
+      "distanceM": 7277,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286378310"
+    },
+    {
       "id": "osm:node/4308106342",
       "category": "food",
       "subcategory": "fastfood",
@@ -274,42 +310,6 @@
       "distanceM": 7366,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4308106342"
-    },
-    {
-      "id": "osm:way/1241266359",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "村上薬師堂",
-      "lat": 37.6888956,
-      "lng": 140.4966612,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7423,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/1241266359"
-    },
-    {
-      "id": "osm:way/736813891",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "松川工業第二公園",
-      "lat": 37.6553867,
-      "lng": 140.4891325,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7831,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/736813891"
     },
     {
       "id": "osm:way/483828361",
@@ -456,6 +456,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/485445295"
     },
     {
+      "id": "osm:node/14286371233",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "月見舘森林公園キャンプ場",
+      "lat": 37.7360593,
+      "lng": 140.6098068,
+      "address": "福島県伊達市",
+      "openingHoursRaw": null,
+      "phone": "024-572-2111",
+      "website": null,
+      "distanceM": 8128,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286371233"
+    },
+    {
       "id": "osm:node/11932543805",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -526,24 +544,6 @@
       "distanceM": 8333,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/736719095"
-    },
-    {
-      "id": "osm:node/11962371186",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "中原児童遊び場",
-      "lat": 37.6550412,
-      "lng": 140.4829166,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8376,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/11962371186"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "lat": 37.2219817,
   "lng": 139.5426599,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:38:27Z",
+  "generatedAt": "2026-10-25T23:18:12Z",
   "pois": [
     {
       "id": "osm:node/10165757835",
@@ -60,6 +60,24 @@
       "distanceM": 494,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/302216584"
+    },
+    {
+      "id": "osm:node/14286479031",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "久川ふれあい広場キャンプ場",
+      "lat": 37.1929069,
+      "lng": 139.5260621,
+      "address": "福島県南会津郡南会津町",
+      "openingHoursRaw": null,
+      "phone": "0241-76-7716",
+      "website": null,
+      "distanceM": 3551,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479031"
     },
     {
       "id": "osm:node/10651285548",
@@ -187,6 +205,24 @@
       "distanceM": 4526,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/10651285549"
+    },
+    {
+      "id": "osm:node/14286479020",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "高清水自然公園",
+      "lat": 37.263304,
+      "lng": 139.540287,
+      "address": "福島県南会津郡南会津町",
+      "openingHoursRaw": null,
+      "phone": "0241-73-2115",
+      "website": null,
+      "distanceM": 4600,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286479020"
     },
     {
       "id": "osm:node/1355513497",
