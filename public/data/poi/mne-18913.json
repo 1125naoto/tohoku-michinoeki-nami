@@ -3,7 +3,7 @@
   "lat": 40.784406,
   "lng": 140.322251,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:39:55Z",
+  "generatedAt": "2026-11-01T21:58:03Z",
   "pois": [
     {
       "id": "osm:way/673746026",
@@ -70,9 +70,9 @@
       "name": "つがる地球村・オートキャンプサイト",
       "lat": 40.7693597,
       "lng": 140.3360841,
-      "address": null,
+      "address": "青森県つがる市",
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "0173-26-2855",
       "website": null,
       "distanceM": 2039,
       "source": "overpass",
@@ -515,6 +515,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/10776078786"
     },
     {
+      "id": "osm:node/14284414835",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "タノナガノヤドッコ キャンプサイト",
+      "lat": 40.8513972,
+      "lng": 140.3629348,
+      "address": "青森県つがる市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8198,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14284414835"
+    },
+    {
       "id": "osm:node/10776078782",
       "category": "food",
       "subcategory": "fastfood",
@@ -531,24 +549,6 @@
       "distanceM": 8207,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/10776078782"
-    },
-    {
-      "id": "osm:node/13343755608",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "ナン・カレーハウス",
-      "lat": 40.8025781,
-      "lng": 140.416921,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8222,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/13343755608"
     }
   ]
 }

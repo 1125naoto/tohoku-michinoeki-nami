@@ -3,7 +3,7 @@
   "lat": 40.248349,
   "lng": 141.4165286,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:25:09Z",
+  "generatedAt": "2026-11-01T22:17:01Z",
   "pois": [
     {
       "id": "osm:node/12902215029",
@@ -78,6 +78,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/12329856605"
     },
     {
+      "id": "osm:node/14286211442",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "コロポックルランド",
+      "lat": 40.259472,
+      "lng": 141.3923057,
+      "address": "岩手県九戸郡九戸村",
+      "openingHoursRaw": null,
+      "phone": "0195-42-4062",
+      "website": null,
+      "distanceM": 2399,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211442"
+    },
+    {
       "id": "osm:way/589406649",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -123,7 +141,7 @@
       "name": "折爪岳オートキャンプ場",
       "lat": 40.2650437,
       "lng": 141.3719613,
-      "address": null,
+      "address": "岩手県二戸市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -177,7 +195,7 @@
       "name": "ミレットパーク",
       "lat": 40.2824648,
       "lng": 141.3841879,
-      "address": null,
+      "address": "岩手県九戸郡軽米町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -274,6 +292,24 @@
       "distanceM": 7042,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7056488059"
+    },
+    {
+      "id": "osm:node/14286211438",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "えぞと大自然のロマンの森",
+      "lat": 40.3209572,
+      "lng": 141.4573165,
+      "address": "岩手県九戸郡軽米町",
+      "openingHoursRaw": null,
+      "phone": "0195-46-4232",
+      "website": null,
+      "distanceM": 8784,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211438"
     },
     {
       "id": "osm:node/5290748854",
@@ -429,7 +465,7 @@
       "name": "雪谷川ダムフォリストパークキャンプ場",
       "lat": 40.2881833,
       "lng": 141.5193563,
-      "address": null,
+      "address": "岩手県九戸郡軽米町",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -454,6 +490,24 @@
       "distanceM": 9798,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1372563820"
+    },
+    {
+      "id": "osm:node/14286211437",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "県北青少年の家",
+      "lat": 40.3218016,
+      "lng": 141.3516103,
+      "address": "岩手県二戸市",
+      "openingHoursRaw": null,
+      "phone": "0195-23-9511",
+      "website": null,
+      "distanceM": 9850,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211437"
     },
     {
       "id": "osm:way/546266475",
@@ -490,60 +544,6 @@
       "distanceM": 9874,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/513724887"
-    },
-    {
-      "id": "osm:node/14074073266",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "軽米八幡宮",
-      "lat": 40.330661,
-      "lng": 141.4605759,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9886,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14074073266"
-    },
-    {
-      "id": "osm:way/546266479",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "一戸家",
-      "lat": 40.2164545,
-      "lng": 141.306528,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9989,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/546266479"
-    },
-    {
-      "id": "osm:way/542341303",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": null,
-      "lat": 40.2666473,
-      "lng": 141.3009368,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 10018,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/542341303"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "lat": 38.5869944,
   "lng": 139.874501,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T22:57:05Z",
+  "generatedAt": "2026-11-01T23:59:37Z",
   "pois": [
     {
       "id": "osm:way/724046657",
@@ -385,6 +385,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/551535552"
     },
     {
+      "id": "osm:node/14286240368",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "月山あさひサンチュアパーク",
+      "lat": 38.5726001,
+      "lng": 139.9407444,
+      "address": "山形県鶴岡市",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": "https://yudonosan.com/camp/",
+      "distanceM": 5977,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286240368"
+    },
+    {
       "id": "osm:node/5128008432",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -527,24 +545,6 @@
       "distanceM": 6985,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8821045882"
-    },
-    {
-      "id": "osm:way/552864772",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "吉祥寺",
-      "lat": 38.6416859,
-      "lng": 139.8323848,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7097,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/552864772"
     }
   ]
 }

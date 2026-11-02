@@ -3,26 +3,8 @@
   "lat": 38.8986767,
   "lng": 141.2723745,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:00:44Z",
+  "generatedAt": "2026-11-01T22:55:41Z",
   "pois": [
-    {
-      "id": "osm:way/589924347",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "川崎運動公園広場",
-      "lat": 38.8979579,
-      "lng": 141.2708081,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 157,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/589924347"
-    },
     {
       "id": "osm:node/12929728743",
       "category": "food",
@@ -321,9 +303,9 @@
       "name": "石蔵山林間広場",
       "lat": 38.9363189,
       "lng": 141.2314917,
-      "address": null,
+      "address": "岩手県一関市",
       "openingHoursRaw": null,
-      "phone": null,
+      "phone": "0191-43-3601",
       "website": null,
       "distanceM": 5480,
       "source": "overpass",
@@ -544,6 +526,24 @@
       "distanceM": 5900,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/8413718573"
+    },
+    {
+      "id": "osm:node/5630354280",
+      "category": "onsen",
+      "subcategory": "kyukei",
+      "subcategories": [
+        "kyukei"
+      ],
+      "name": null,
+      "lat": 38.8453127,
+      "lng": 141.2664826,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5956,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/5630354280"
     }
   ]
 }

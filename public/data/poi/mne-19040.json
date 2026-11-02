@@ -3,7 +3,7 @@
   "lat": 37.4719243,
   "lng": 139.5305827,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T22:34:42Z",
+  "generatedAt": "2026-11-02T00:39:02Z",
   "pois": [
     {
       "id": "osm:way/244649777",
@@ -148,6 +148,24 @@
       "distanceM": 2735,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/4053498878"
+    },
+    {
+      "id": "osm:node/14286401025",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "沼沢湖畔キャンプ場",
+      "lat": 37.449409,
+      "lng": 139.5475483,
+      "address": "福島県大沼郡金山町",
+      "openingHoursRaw": null,
+      "phone": "0241-55-3140",
+      "website": null,
+      "distanceM": 2917,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286401025"
     },
     {
       "id": "osm:node/8743852413",
@@ -528,24 +546,6 @@
       "distanceM": 6401,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1021675764"
-    },
-    {
-      "id": "osm:node/3979164853",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "高陽山",
-      "lat": 37.5129043,
-      "lng": 139.585097,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6625,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/3979164853"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "lat": 39.7527085,
   "lng": 140.061005,
   "radiusM": 10000,
-  "generatedAt": "2026-10-18T20:53:27Z",
+  "generatedAt": "2026-11-01T23:37:28Z",
   "pois": [
     {
       "id": "osm:node/4768860759",
@@ -70,7 +70,7 @@
       "lat": 39.7207818,
       "lng": 140.1041067,
       "address": null,
-      "openingHoursRaw": "Mo-Fr, 7:00-20:00; Sa-Su, 8:30-20:00",
+      "openingHoursRaw": "Mo-Fr 07:00-20:00; Sa-Su 08:30-20:00",
       "phone": "018-896-5081",
       "website": null,
       "distanceM": 5117,
@@ -336,7 +336,7 @@
       "subcategories": [
         "food_other"
       ],
-      "name": "お食事処　さかえ",
+      "name": "お食事処 さかえ",
       "lat": 39.7153016,
       "lng": 140.1281322,
       "address": null,
@@ -354,7 +354,7 @@
       "subcategories": [
         "food_other"
       ],
-      "name": "美味の店　町家",
+      "name": "美味の店 町家",
       "lat": 39.7153016,
       "lng": 140.1282047,
       "address": null,

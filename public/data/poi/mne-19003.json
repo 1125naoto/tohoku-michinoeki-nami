@@ -3,7 +3,7 @@
   "lat": 38.436059,
   "lng": 140.099237,
   "radiusM": 10000,
-  "generatedAt": "2026-10-18T21:03:02Z",
+  "generatedAt": "2026-11-02T00:01:59Z",
   "pois": [
     {
       "id": "osm:way/683657724",
@@ -386,6 +386,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/14095287217"
     },
     {
+      "id": "osm:node/14301197844",
+      "category": "tourism",
+      "subcategory": "koen",
+      "subcategories": [
+        "koen"
+      ],
+      "name": "月布農村公園",
+      "lat": 38.3844388,
+      "lng": 140.1154748,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 5912,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14301197844"
+    },
+    {
       "id": "osm:node/14095335921",
       "category": "tourism",
       "subcategory": "keishou",
@@ -528,24 +546,6 @@
       "distanceM": 6841,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5116755035"
-    },
-    {
-      "id": "osm:node/8639268395",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "獅畑山",
-      "lat": 38.3879687,
-      "lng": 140.0476076,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6988,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/8639268395"
     }
   ]
 }

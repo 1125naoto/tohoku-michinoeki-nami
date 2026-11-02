@@ -3,7 +3,7 @@
   "lat": 40.577739,
   "lng": 140.300462,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:43:08Z",
+  "generatedAt": "2026-11-01T22:08:12Z",
   "pois": [
     {
       "id": "osm:node/14201269252",
@@ -167,24 +167,6 @@
       "distanceM": 4470,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/14201327073"
-    },
-    {
-      "id": "osm:way/727228494",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": null,
-      "lat": 40.5391016,
-      "lng": 140.3236109,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 4720,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/727228494"
     },
     {
       "id": "osm:node/7059839364",
@@ -547,6 +529,24 @@
       "distanceM": 6076,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7433296166"
+    },
+    {
+      "id": "osm:node/14201269104",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": "求聞寺",
+      "lat": 40.6218238,
+      "lng": 140.3439986,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 6127,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14201269104"
     }
   ]
 }
