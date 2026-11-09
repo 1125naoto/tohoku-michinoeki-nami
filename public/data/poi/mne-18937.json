@@ -3,7 +3,7 @@
   "lat": 39.8799671,
   "lng": 141.0993785,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:33:24Z",
+  "generatedAt": "2026-11-08T22:28:39Z",
   "pois": [
     {
       "id": "osm:node/7890018162",
@@ -259,6 +259,42 @@
       "sourceUrl": "https://www.openstreetmap.org/node/12177455175"
     },
     {
+      "id": "osm:node/14286218514",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "３S CAMP",
+      "lat": 39.9066813,
+      "lng": 141.054793,
+      "address": "岩手県八幡平市",
+      "openingHoursRaw": null,
+      "phone": "0195-78-8822",
+      "website": "https://3sv-hachimantai.jp/",
+      "distanceM": 4826,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218514"
+    },
+    {
+      "id": "osm:node/14286218516",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "焼走りオートキャンプ場・キャビン村",
+      "lat": 39.8779876,
+      "lng": 141.0425818,
+      "address": "岩手県八幡平市",
+      "openingHoursRaw": null,
+      "phone": "0195-76-2013",
+      "website": null,
+      "distanceM": 4852,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218516"
+    },
+    {
       "id": "osm:way/685206049",
       "category": "onsen",
       "subcategory": "higaeri_onsen",
@@ -275,6 +311,24 @@
       "distanceM": 4958,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/685206049"
+    },
+    {
+      "id": "osm:node/14286218512",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "県営松川キャンプ場",
+      "lat": 39.9263614,
+      "lng": 141.0953354,
+      "address": "岩手県八幡平市",
+      "openingHoursRaw": null,
+      "phone": "0195-78-2256",
+      "website": null,
+      "distanceM": 5170,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218512"
     },
     {
       "id": "osm:way/767839235",
@@ -311,6 +365,24 @@
       "distanceM": 6238,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/1853390774"
+    },
+    {
+      "id": "osm:node/14286218518",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "馬返しキャンプ場",
+      "lat": 39.8424762,
+      "lng": 141.0422098,
+      "address": "岩手県岩手郡滝沢村",
+      "openingHoursRaw": null,
+      "phone": "019-684-2111",
+      "website": null,
+      "distanceM": 6418,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286218518"
     },
     {
       "id": "osm:way/585161931",
@@ -473,78 +545,6 @@
       "distanceM": 7196,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/245394664"
-    },
-    {
-      "id": "osm:way/522830435",
-      "category": "onsen",
-      "subcategory": "kyukei",
-      "subcategories": [
-        "kyukei"
-      ],
-      "name": "馬返し東屋",
-      "lat": 39.8342625,
-      "lng": 141.0391312,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7230,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/522830435"
-    },
-    {
-      "id": "osm:node/6639774176",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": "愛宕神社",
-      "lat": 39.8412357,
-      "lng": 141.1696976,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7387,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/6639774176"
-    },
-    {
-      "id": "osm:node/5117518295",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": null,
-      "lat": 39.8400065,
-      "lng": 141.0279473,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7544,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/5117518295"
-    },
-    {
-      "id": "osm:way/593137784",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "いずみ巣子NTわんぱく広場",
-      "lat": 39.8115485,
-      "lng": 141.1146244,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 7718,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/593137784"
     }
   ]
 }

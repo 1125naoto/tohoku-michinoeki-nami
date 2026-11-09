@@ -3,8 +3,26 @@
   "lat": 40.42962337097706,
   "lng": 141.0691523355571,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:45:26Z",
+  "generatedAt": "2026-11-08T22:14:54Z",
   "pois": [
+    {
+      "id": "osm:node/14286211430",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "間木ノ平グリーンパーク",
+      "lat": 40.4294402,
+      "lng": 141.0689645,
+      "address": "青森県三戸郡新郷村",
+      "openingHoursRaw": null,
+      "phone": "0178-78-3333",
+      "website": null,
+      "distanceM": 26,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286211430"
+    },
     {
       "id": "osm:way/558451653",
       "category": "tourism",
@@ -229,13 +247,13 @@
         "hakubutsukan"
       ],
       "name": "キリストの里伝承館",
-      "lat": 40.4535826,
-      "lng": 141.148117,
+      "lat": 40.4536302,
+      "lng": 141.1481266,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 7194,
+      "distanceM": 7197,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/515633905"
     },
@@ -247,13 +265,13 @@
         "meisho"
       ],
       "name": "新郷村 キリストの墓",
-      "lat": 40.4540151,
-      "lng": 141.1486485,
+      "lat": 40.4540137,
+      "lng": 141.1485992,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": "http://www.vill.shingo.aomori.jp/sight/sight_main/kankou/sight-christ/",
-      "distanceM": 7254,
+      "distanceM": 7250,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/5035236244"
     },
@@ -265,13 +283,13 @@
         "meisho"
       ],
       "name": "キリストの墓",
-      "lat": 40.4540664,
-      "lng": 141.1487927,
+      "lat": 40.454065,
+      "lng": 141.1487434,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 7267,
+      "distanceM": 7263,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/515633906"
     },
@@ -384,6 +402,24 @@
       "sourceUrl": "https://www.openstreetmap.org/way/770981386"
     },
     {
+      "id": "osm:node/9039691903",
+      "category": "tourism",
+      "subcategory": "jinja_tera",
+      "subcategories": [
+        "jinja_tera"
+      ],
+      "name": null,
+      "lat": 40.3615535,
+      "lng": 141.1096927,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8311,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/9039691903"
+    },
+    {
       "id": "osm:node/9039691902",
       "category": "tourism",
       "subcategory": "jinja_tera",
@@ -400,24 +436,6 @@
       "distanceM": 8314,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/9039691902"
-    },
-    {
-      "id": "osm:node/9039691903",
-      "category": "tourism",
-      "subcategory": "jinja_tera",
-      "subcategories": [
-        "jinja_tera"
-      ],
-      "name": null,
-      "lat": 40.3615148,
-      "lng": 141.1096779,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 8315,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/9039691903"
     },
     {
       "id": "osm:node/9039691904",

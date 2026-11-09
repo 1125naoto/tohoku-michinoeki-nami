@@ -3,7 +3,7 @@
   "lat": 39.706412,
   "lng": 140.874886,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:37:45Z",
+  "generatedAt": "2026-11-08T22:33:33Z",
   "pois": [
     {
       "id": "osm:node/6534898934",
@@ -22,6 +22,42 @@
       "distanceM": 50,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/6534898934"
+    },
+    {
+      "id": "osm:node/14286177371",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "道の駅雫石あねっこ（小柳沢砂防公園キャンプ場）",
+      "lat": 39.7088617,
+      "lng": 140.873879,
+      "address": "岩手県岩手郡雫石町",
+      "openingHoursRaw": null,
+      "phone": "019-692-5577",
+      "website": "https://www.anekko.co.jp/camp",
+      "distanceM": 286,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286177371"
+    },
+    {
+      "id": "osm:node/14286177372",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "国見キャンプ場",
+      "lat": 39.703626,
+      "lng": 140.878572,
+      "address": "岩手県岩手郡雫石町",
+      "openingHoursRaw": null,
+      "phone": "019-692-2111",
+      "website": null,
+      "distanceM": 442,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14286177372"
     },
     {
       "id": "osm:way/1210240590",
@@ -440,6 +476,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/2964282236"
     },
     {
+      "id": "osm:node/14287663295",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "鶯宿温泉 寿広園",
+      "lat": 39.6409732,
+      "lng": 140.9356202,
+      "address": "岩手岩手郡雫石町",
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 8942,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14287663295"
+    },
+    {
       "id": "osm:node/8380732880",
       "category": "tourism",
       "subcategory": "keishou",
@@ -492,60 +546,6 @@
       "distanceM": 9037,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7299194473"
-    },
-    {
-      "id": "osm:way/553562064",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "御所湖ファミリーランド",
-      "lat": 39.6640963,
-      "lng": 140.9659687,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9104,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/553562064"
-    },
-    {
-      "id": "osm:node/7111911283",
-      "category": "onsen",
-      "subcategory": "kyukei",
-      "subcategories": [
-        "kyukei"
-      ],
-      "name": null,
-      "lat": 39.6670078,
-      "lng": 140.9702923,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9265,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/7111911283"
-    },
-    {
-      "id": "osm:node/7299194472",
-      "category": "tourism",
-      "subcategory": "keishou",
-      "subcategories": [
-        "keishou"
-      ],
-      "name": "三角山",
-      "lat": 39.790138,
-      "lng": 140.8669781,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 9334,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/7299194472"
     }
   ]
 }

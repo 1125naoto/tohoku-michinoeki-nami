@@ -3,7 +3,7 @@
   "lat": 40.2264503,
   "lng": 141.781341,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T21:26:00Z",
+  "generatedAt": "2026-11-08T22:20:04Z",
   "pois": [
     {
       "id": "osm:node/1224826004",
@@ -15,7 +15,7 @@
       "name": "岩手県久慈市立平山小学校",
       "lat": 40.2179966,
       "lng": 141.781704,
-      "address": null,
+      "address": "岩手県久慈市",
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
