@@ -3,7 +3,7 @@
   "lat": 39.61884,
   "lng": 140.362517,
   "radiusM": 10000,
-  "generatedAt": "2026-11-08T23:41:03Z",
+  "generatedAt": "2026-11-16T00:21:11Z",
   "pois": [
     {
       "id": "osm:way/737240573",
@@ -130,6 +130,42 @@
       "distanceM": 1151,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7461158075"
+    },
+    {
+      "id": "osm:node/14377648106",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "長者森",
+      "lat": 39.6172377,
+      "lng": 140.3894112,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2311,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14377648106"
+    },
+    {
+      "id": "osm:node/14377648110",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": "石森山",
+      "lat": 39.6361289,
+      "lng": 140.3429216,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 2552,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14377648110"
     },
     {
       "id": "osm:node/7461158071",
@@ -508,42 +544,6 @@
       "distanceM": 3750,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/815630388"
-    },
-    {
-      "id": "osm:way/762415103",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": "まほろば唐松公園",
-      "lat": 39.6076697,
-      "lng": 140.3204884,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 3808,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/762415103"
-    },
-    {
-      "id": "osm:way/762415101",
-      "category": "tourism",
-      "subcategory": "koen",
-      "subcategories": [
-        "koen"
-      ],
-      "name": null,
-      "lat": 39.6022898,
-      "lng": 140.32334,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 3828,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/way/762415101"
     }
   ]
 }

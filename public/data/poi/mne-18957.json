@@ -3,7 +3,7 @@
   "lat": 37.982691,
   "lng": 140.466502,
   "radiusM": 10000,
-  "generatedAt": "2026-10-18T20:47:26Z",
+  "generatedAt": "2026-11-15T23:58:46Z",
   "pois": [
     {
       "id": "osm:node/11442974609",
@@ -402,6 +402,24 @@
       "sourceUrl": "https://www.openstreetmap.org/node/8242312619"
     },
     {
+      "id": "osm:node/14287673701",
+      "category": "tourism",
+      "subcategory": "camp",
+      "subcategories": [
+        "camp"
+      ],
+      "name": "南蔵王やまびこの森キャンプ場",
+      "lat": 38.027302,
+      "lng": 140.471475,
+      "address": "宮城刈田郡七ヶ宿町",
+      "openingHoursRaw": null,
+      "phone": "0224-37-2134",
+      "website": null,
+      "distanceM": 4980,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/14287673701"
+    },
+    {
       "id": "osm:node/8638922182",
       "category": "tourism",
       "subcategory": "keishou",
@@ -526,24 +544,6 @@
       "distanceM": 6190,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1382935753"
-    },
-    {
-      "id": "osm:node/8242080622",
-      "category": "food",
-      "subcategory": "food_other",
-      "subcategories": [
-        "food_other"
-      ],
-      "name": "そばの吉野屋",
-      "lat": 38.0155476,
-      "lng": 140.4043567,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 6557,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/8242080622"
     }
   ]
 }

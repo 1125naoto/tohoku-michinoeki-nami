@@ -3,7 +3,7 @@
   "lat": 39.6390181,
   "lng": 141.9698939,
   "radiusM": 10000,
-  "generatedAt": "2026-10-11T21:53:26Z",
+  "generatedAt": "2026-11-15T23:18:38Z",
   "pois": [
     {
       "id": "osm:node/7757109402",
@@ -85,33 +85,33 @@
         "hotel"
       ],
       "name": "近江屋",
-      "lat": 39.6282852,
-      "lng": 141.9650769,
+      "lat": 39.6282562,
+      "lng": 141.9652124,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1263,
+      "distanceM": 1262,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/238734179"
     },
     {
-      "id": "osm:node/11621841986",
+      "id": "osm:way/760171928",
       "category": "tourism",
       "subcategory": "koen",
       "subcategories": [
         "koen"
       ],
       "name": null,
-      "lat": 39.6472788,
-      "lng": 141.9591041,
+      "lat": 39.647266,
+      "lng": 141.9591254,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1303,
+      "distanceM": 1300,
       "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/11621841986"
+      "sourceUrl": "https://www.openstreetmap.org/way/760171928"
     },
     {
       "id": "osm:node/6349606012",
@@ -139,13 +139,13 @@
         "ramen"
       ],
       "name": "ラーメンショップ Aji-Q",
-      "lat": 39.6269571,
-      "lng": 141.9638602,
+      "lat": 39.6269246,
+      "lng": 141.9639078,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1437,
+      "distanceM": 1439,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2465310875"
     },
@@ -445,13 +445,13 @@
         "food_other"
       ],
       "name": "王将",
-      "lat": 39.6405594,
-      "lng": 141.9478588,
+      "lat": 39.6405387,
+      "lng": 141.9479218,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 1895,
+      "distanceM": 1889,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/2463870811"
     },
