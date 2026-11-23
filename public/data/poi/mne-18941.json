@@ -3,7 +3,7 @@
   "lat": 39.5367746,
   "lng": 141.3404903,
   "radiusM": 10000,
-  "generatedAt": "2026-11-15T23:20:22Z",
+  "generatedAt": "2026-11-23T00:09:14Z",
   "pois": [
     {
       "id": "osm:way/1313595409",
@@ -94,24 +94,6 @@
       "distanceM": 3361,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7293798005"
-    },
-    {
-      "id": "osm:node/14286177378",
-      "category": "tourism",
-      "subcategory": "camp",
-      "subcategories": [
-        "camp"
-      ],
-      "name": "大迫笠詰キャンプ場",
-      "lat": 39.4994461,
-      "lng": 141.3238952,
-      "address": "岩手県花巻市",
-      "openingHoursRaw": null,
-      "phone": "0198-48-2111",
-      "website": null,
-      "distanceM": 4388,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/14286177378"
     },
     {
       "id": "osm:node/7293798046",
@@ -544,6 +526,24 @@
       "distanceM": 9516,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7293798009"
+    },
+    {
+      "id": "osm:node/8846328844",
+      "category": "tourism",
+      "subcategory": "keishou",
+      "subcategories": [
+        "keishou"
+      ],
+      "name": null,
+      "lat": 39.5571945,
+      "lng": 141.4485073,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 9536,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/8846328844"
     }
   ]
 }

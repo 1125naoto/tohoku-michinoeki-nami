@@ -3,7 +3,7 @@
   "lat": 40.2264503,
   "lng": 141.781341,
   "radiusM": 10000,
-  "generatedAt": "2026-11-15T23:02:33Z",
+  "generatedAt": "2026-11-22T23:53:13Z",
   "pois": [
     {
       "id": "osm:node/1224826004",
@@ -15,7 +15,7 @@
       "name": "岩手県久慈市立平山小学校",
       "lat": 40.2179966,
       "lng": 141.781704,
-      "address": "岩手県久慈市",
+      "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
@@ -40,24 +40,6 @@
       "distanceM": 2589,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/569024752"
-    },
-    {
-      "id": "osm:node/13917572851",
-      "category": "onsen",
-      "subcategory": "kyukei",
-      "subcategories": [
-        "kyukei"
-      ],
-      "name": null,
-      "lat": 40.217651,
-      "lng": 141.8099701,
-      "address": null,
-      "openingHoursRaw": null,
-      "phone": null,
-      "website": null,
-      "distanceM": 2620,
-      "source": "overpass",
-      "sourceUrl": "https://www.openstreetmap.org/node/13917572851"
     },
     {
       "id": "osm:way/569024711",
@@ -544,6 +526,24 @@
       "distanceM": 4140,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/567842089"
+    },
+    {
+      "id": "osm:node/6348622649",
+      "category": "food",
+      "subcategory": "food_other",
+      "subcategories": [
+        "food_other"
+      ],
+      "name": "フリースペースONE",
+      "lat": 40.191032,
+      "lng": 141.7659727,
+      "address": null,
+      "openingHoursRaw": null,
+      "phone": null,
+      "website": null,
+      "distanceM": 4149,
+      "source": "overpass",
+      "sourceUrl": "https://www.openstreetmap.org/node/6348622649"
     }
   ]
 }

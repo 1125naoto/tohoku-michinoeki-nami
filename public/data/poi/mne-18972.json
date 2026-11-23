@@ -3,7 +3,7 @@
   "lat": 40.4210338,
   "lng": 140.624429,
   "radiusM": 10000,
-  "generatedAt": "2026-10-04T22:19:05Z",
+  "generatedAt": "2026-11-23T00:49:57Z",
   "pois": [
     {
       "id": "osm:way/839645745",
@@ -305,10 +305,10 @@
       "name": "碇ヶ関温泉会館",
       "lat": 40.4740027,
       "lng": 140.6296266,
-      "address": null,
+      "address": "青森県平川市1",
       "openingHoursRaw": null,
       "phone": null,
-      "website": null,
+      "website": "https://hirakawa-gurume.com/hirakawa-onsen/ikarigasekionsenkaikan",
       "distanceM": 5906,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/684135329"
@@ -501,13 +501,13 @@
         "higaeri_onsen"
       ],
       "name": null,
-      "lat": 40.4811689,
-      "lng": 140.6224903,
+      "lat": 40.4811658,
+      "lng": 140.622497,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 6689,
+      "distanceM": 6688,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/way/1046219751"
     },
@@ -537,8 +537,8 @@
         "higaeri_onsen"
       ],
       "name": "森林浴交流センターしまだ",
-      "lat": 40.4713679,
-      "lng": 140.5807387,
+      "lat": 40.4713713,
+      "lng": 140.5807434,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,

@@ -3,7 +3,7 @@
   "lat": 40.574645,
   "lng": 141.2646116,
   "radiusM": 10000,
-  "generatedAt": "2026-11-08T22:10:20Z",
+  "generatedAt": "2026-11-22T23:43:53Z",
   "pois": [
     {
       "id": "osm:node/7142415335",
@@ -481,13 +481,13 @@
         "cafe"
       ],
       "name": "千の花",
-      "lat": 40.6146228,
-      "lng": 141.2106554,
+      "lat": 40.614556,
+      "lng": 141.2106966,
       "address": null,
       "openingHoursRaw": null,
       "phone": null,
       "website": null,
-      "distanceM": 6365,
+      "distanceM": 6358,
       "source": "overpass",
       "sourceUrl": "https://www.openstreetmap.org/node/7142416004"
     },
